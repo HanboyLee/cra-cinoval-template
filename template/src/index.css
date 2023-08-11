@@ -1,0 +1,20 @@
+/* Excessively large screens */
+@media (min-width: 2049px) {
+  html {
+    font-size: 36px;
+  }
+}
+
+/* Laptop and Desktops screens */
+@media (min-width: 769px) and (max-width: 2048px) {
+  html {
+    font-size: calc(14px + 10 * ((100vw - 769px) / 2048));
+  }
+}
+
+/* Mobile and Tablet */
+@media (max-width: 768px) {
+  html {
+    font-size: calc(14px + 2 * ((100vw - 360px) / 768));
+  }
+}

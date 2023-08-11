@@ -1,0 +1,5195 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3596470 */
+  src: url('iconfont.woff2?t=1660875695123') format('woff2'),
+       url('iconfont.woff?t=1660875695123') format('woff'),
+       url('iconfont.ttf?t=1660875695123') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sinoval-gongsi:before {
+  content: "\eb0f";
+}
+
+.sinoval-jituan:before {
+  content: "\eb10";
+}
+
+.sinoval-chejianguanli:before {
+  content: "\eb11";
+}
+
+.sinoval-BookFormulaMath:before {
+  content: "\e6c6";
+}
+
+.sinoval-DocumentSearch:before {
+  content: "\e7cd";
+}
+
+.sinoval-New-1:before {
+  content: "\e8cd";
+}
+
+.sinoval-SubGrid-1:before {
+  content: "\e9cd";
+}
+
+.sinoval-USBStick-1:before {
+  content: "\eacd";
+}
+
+.sinoval-BookFormulaStatistics:before {
+  content: "\e6c7";
+}
+
+.sinoval-DoubleSwipeDown:before {
+  content: "\e7ce";
+}
+
+.sinoval-Music-1:before {
+  content: "\e8ce";
+}
+
+.sinoval-Store-1:before {
+  content: "\e9ce";
+}
+
+.sinoval-Target-1:before {
+  content: "\eace";
+}
+
+.sinoval-Bookmark:before {
+  content: "\e6c8";
+}
+
+.sinoval-CheckmarkCircle-1:before {
+  content: "\e7cf";
+}
+
+.sinoval-Midi:before {
+  content: "\e8cf";
+}
+
+.sinoval-StyleGuide:before {
+  content: "\e9cf";
+}
+
+.sinoval-WeatherSnowflake-1:before {
+  content: "\eacf";
+}
+
+.sinoval-BookFormulaRecent-1:before {
+  content: "\e6c9";
+}
+
+.sinoval-DoubleSwipeDown-1:before {
+  content: "\e7d0";
+}
+
+.sinoval-NetworkCheck:before {
+  content: "\e8d0";
+}
+
+.sinoval-Store:before {
+  content: "\e9d0";
+}
+
+.sinoval-TextQuote:before {
+  content: "\ead0";
+}
+
+.sinoval-Bookmark-1:before {
+  content: "\e6ca";
+}
+
+.sinoval-DoubleTapSwipeDown:before {
+  content: "\e7d1";
+}
+
+.sinoval-MyLocation-1:before {
+  content: "\e8d1";
+}
+
+.sinoval-KeyboardDock:before {
+  content: "\e9d1";
+}
+
+.sinoval-WeatherRainSnow:before {
+  content: "\ead1";
+}
+
+.sinoval-BookFormulaText:before {
+  content: "\e6cb";
+}
+
+.sinoval-DoubleSwipeUp:before {
+  content: "\e7d2";
+}
+
+.sinoval-MobileOptimized:before {
+  content: "\e8d2";
+}
+
+.sinoval-Subway:before {
+  content: "\e9d2";
+}
+
+.sinoval-MobileOptimized-1:before {
+  content: "\ead2";
+}
+
+.sinoval-Branch-1:before {
+  content: "\e6cc";
+}
+
+.sinoval-DoubleSwipeUp-1:before {
+  content: "\e7d3";
+}
+
+.sinoval-Note:before {
+  content: "\e8d3";
+}
+
+.sinoval-SubGrid:before {
+  content: "\e9d3";
+}
+
+.sinoval-WeatherRainShowersDay:before {
+  content: "\ead3";
+}
+
+.sinoval-Branch:before {
+  content: "\e6cd";
+}
+
+.sinoval-DoubleTapSwipeUp-1:before {
+  content: "\e7d4";
+}
+
+.sinoval-MyLocation:before {
+  content: "\e8d4";
+}
+
+.sinoval-SurfaceHub:before {
+  content: "\e9d4";
+}
+
+.sinoval-SwitchVideo:before {
+  content: "\ead4";
+}
+
+.sinoval-BroadActivityFeed-1:before {
+  content: "\e6cf";
+}
+
+.sinoval-DoubleTapSwipeDown-1:before {
+  content: "\e7d5";
+}
+
+.sinoval-News:before {
+  content: "\e8d5";
+}
+
+.sinoval-Suggestion:before {
+  content: "\e9d5";
+}
+
+.sinoval-SwipeRight-1:before {
+  content: "\ead5";
+}
+
+.sinoval-BroadActivityFeed:before {
+  content: "\e6d0";
+}
+
+.sinoval-Drafts-1:before {
+  content: "\e7d6";
+}
+
+.sinoval-More-1:before {
+  content: "\e8d6";
+}
+
+.sinoval-Signed-1:before {
+  content: "\e9d6";
+}
+
+.sinoval-System:before {
+  content: "\ead6";
+}
+
+.sinoval-BookFormulaRecent:before {
+  content: "\e6d1";
+}
+
+.sinoval-Drink-1:before {
+  content: "\e7d7";
+}
+
+.sinoval-NetworkCheck-1:before {
+  content: "\e8d7";
+}
+
+.sinoval-SurfaceHub-1:before {
+  content: "\e9d7";
+}
+
+.sinoval-TabSweep-1:before {
+  content: "\ead7";
+}
+
+.sinoval-BotAdd:before {
+  content: "\e6d2";
+}
+
+.sinoval-Drag:before {
+  content: "\e7d8";
+}
+
+.sinoval-NotebookError-1:before {
+  content: "\e8d8";
+}
+
+.sinoval-SurfaceEarbuds-1:before {
+  content: "\e9d8";
+}
+
+.sinoval-Symbols-1:before {
+  content: "\ead8";
+}
+
+.sinoval-BotAdd-1:before {
+  content: "\e6d3";
+}
+
+.sinoval-DriveMode-1:before {
+  content: "\e7d9";
+}
+
+.sinoval-News-1:before {
+  content: "\e8d9";
+}
+
+.sinoval-SurfaceEarbuds:before {
+  content: "\e9d9";
+}
+
+.sinoval-TextNumberListRTL:before {
+  content: "\ead9";
+}
+
+.sinoval-Calendar3Day-1:before {
+  content: "\e6d4";
+}
+
+.sinoval-ConvertToText:before {
+  content: "\e7da";
+}
+
+.sinoval-Drag-1:before {
+  content: "\e8da";
+}
+
+.sinoval-Suggestion-1:before {
+  content: "\e9da";
+}
+
+.sinoval-SoundSource:before {
+  content: "\eada";
+}
+
+.sinoval-Building:before {
+  content: "\e6d5";
+}
+
+.sinoval-DockRow-1:before {
+  content: "\e7db";
+}
+
+.sinoval-NotebookError:before {
+  content: "\e8db";
+}
+
+.sinoval-SwipeDown-1:before {
+  content: "\e9db";
+}
+
+.sinoval-TextIndentIncrease-1:before {
+  content: "\eadb";
+}
+
+.sinoval-CalendarAdd:before {
+  content: "\e6d6";
+}
+
+.sinoval-EmojiSad:before {
+  content: "\e7dc";
+}
+
+.sinoval-NotebookSection:before {
+  content: "\e8dc";
+}
+
+.sinoval-TabInPrivate-1:before {
+  content: "\e9dc";
+}
+
+.sinoval-TextNumberListLTR-1:before {
+  content: "\eadc";
+}
+
+.sinoval-Bot-1:before {
+  content: "\e6d7";
+}
+
+.sinoval-EmojiAngry:before {
+  content: "\e7dd";
+}
+
+.sinoval-DoubleTapSwipeUp:before {
+  content: "\e8dd";
+}
+
+.sinoval-SwipeUp:before {
+  content: "\e9dd";
+}
+
+.sinoval-TextHanging-1:before {
+  content: "\eadd";
+}
+
+.sinoval-CalendarAdd-1:before {
+  content: "\e6d8";
+}
+
+.sinoval-ContactCardGroup:before {
+  content: "\e7de";
+}
+
+.sinoval-NotebookQuestionMark-1:before {
+  content: "\e8de";
+}
+
+.sinoval-SwipeUp-1:before {
+  content: "\e9de";
+}
+
+.sinoval-WeatherDuststorm:before {
+  content: "\eade";
+}
+
+.sinoval-Briefcase-1:before {
+  content: "\e6d9";
+}
+
+.sinoval-EmojiSad-1:before {
+  content: "\e7df";
+}
+
+.sinoval-NotebookLightning-1:before {
+  content: "\e8df";
+}
+
+.sinoval-System-1:before {
+  content: "\e9df";
+}
+
+.sinoval-DocumentPDF-1:before {
+  content: "\eadf";
+}
+
+.sinoval-CalendarAgenda-1:before {
+  content: "\e6da";
+}
+
+.sinoval-Edit-1:before {
+  content: "\e7e0";
+}
+
+.sinoval-NotebookSection-1:before {
+  content: "\e8e0";
+}
+
+.sinoval-KeyboardTab:before {
+  content: "\e9e0";
+}
+
+.sinoval-VideoOff-1:before {
+  content: "\eae0";
+}
+
+.sinoval-BookFormulaStatistics-1:before {
+  content: "\e6db";
+}
+
+.sinoval-EmojiAngry-1:before {
+  content: "\e7e1";
+}
+
+.sinoval-NotebookQuestionMark:before {
+  content: "\e8e1";
+}
+
+.sinoval-SwipeDown:before {
+  content: "\e9e1";
+}
+
+.sinoval-WiFi2-1:before {
+  content: "\eae1";
+}
+
+.sinoval-Briefcase:before {
+  content: "\e6dc";
+}
+
+.sinoval-EmojiAdd:before {
+  content: "\e7e2";
+}
+
+.sinoval-NotebookLightning:before {
+  content: "\e8e2";
+}
+
+.sinoval-Symbols:before {
+  content: "\e9e2";
+}
+
+.sinoval-TextBulletListSquare:before {
+  content: "\eae2";
+}
+
+.sinoval-CalendarCancel-1:before {
+  content: "\e6dd";
+}
+
+.sinoval-DriveMode:before {
+  content: "\e7e3";
+}
+
+.sinoval-Edit:before {
+  content: "\e8e3";
+}
+
+.sinoval-WeatherFog-1:before {
+  content: "\e9e3";
+}
+
+.sinoval-TeamAdd:before {
+  content: "\eae3";
+}
+
+.sinoval-BookFormulaLookup-1:before {
+  content: "\e6de";
+}
+
+.sinoval-EmojiSurprise-1:before {
+  content: "\e7e4";
+}
+
+.sinoval-Drink:before {
+  content: "\e8e4";
+}
+
+.sinoval-Trophy-1:before {
+  content: "\e9e4";
+}
+
+.sinoval-Speaker1:before {
+  content: "\eae4";
+}
+
+.sinoval-Building-1:before {
+  content: "\e6df";
+}
+
+.sinoval-EraserTool-1:before {
+  content: "\e7e5";
+}
+
+.sinoval-EmojiAdd-1:before {
+  content: "\e8e5";
+}
+
+.sinoval-WeatherDuststorm-1:before {
+  content: "\e9e5";
+}
+
+.sinoval-Navigation-1:before {
+  content: "\eae5";
+}
+
+.sinoval-BookFormulaText-1:before {
+  content: "\e6e0";
+}
+
+.sinoval-Emoji-1:before {
+  content: "\e7e6";
+}
+
+.sinoval-NumberRow-1:before {
+  content: "\e8e6";
+}
+
+.sinoval-TextHanging:before {
+  content: "\e9e6";
+}
+
+.sinoval-Video-1:before {
+  content: "\eae6";
+}
+
+.sinoval-CalendarCancel:before {
+  content: "\e6e1";
+}
+
+.sinoval-Emoji:before {
+  content: "\e7e7";
+}
+
+.sinoval-NotebookSync-1:before {
+  content: "\e8e7";
+}
+
+.sinoval-TextIndentDecrease-1:before {
+  content: "\e9e7";
+}
+
+.sinoval-MicOff-1:before {
+  content: "\eae7";
+}
+
+.sinoval-CalendarRecurring-1:before {
+  content: "\e6e2";
+}
+
+.sinoval-Erase:before {
+  content: "\e7e8";
+}
+
+.sinoval-Notebook-1:before {
+  content: "\e8e8";
+}
+
+.sinoval-MarkRead-1:before {
+  content: "\e9e8";
+}
+
+.sinoval-OpenInBrowser:before {
+  content: "\eae8";
+}
+
+.sinoval-BugReport-1:before {
+  content: "\e6e3";
+}
+
+.sinoval-CopyMove-1:before {
+  content: "\e7e9";
+}
+
+.sinoval-NumberRow:before {
+  content: "\e8e9";
+}
+
+.sinoval-USBPort:before {
+  content: "\e9e9";
+}
+
+.sinoval-Note-1:before {
+  content: "\eae9";
+}
+
+.sinoval-CalendarStarred:before {
+  content: "\e6e4";
+}
+
+.sinoval-Erase-1:before {
+  content: "\e7ea";
+}
+
+.sinoval-OfficeApps-1:before {
+  content: "\e8ea";
+}
+
+.sinoval-TextColor:before {
+  content: "\e9ea";
+}
+
+.sinoval-Speaker:before {
+  content: "\eaea";
+}
+
+.sinoval-Calendar-1:before {
+  content: "\e6e5";
+}
+
+.sinoval-ErrorCircle-1:before {
+  content: "\e7eb";
+}
+
+.sinoval-NumberSymbol:before {
+  content: "\e8eb";
+}
+
+.sinoval-ThumbLike-1:before {
+  content: "\e9eb";
+}
+
+.sinoval-WeatherFog:before {
+  content: "\eaeb";
+}
+
+.sinoval-CalendarAvailability-1:before {
+  content: "\e6e6";
+}
+
+.sinoval-PeopleSearch-1:before {
+  content: "\e7ec";
+}
+
+.sinoval-EmojiSurprise:before {
+  content: "\e8ec";
+}
+
+.sinoval-ThumbDislike:before {
+  content: "\e9ec";
+}
+
+.sinoval-ViewDesktopMobile:before {
+  content: "\eaec";
+}
+
+.sinoval-BugReport:before {
+  content: "\e6e7";
+}
+
+.sinoval-PersonAccounts-1:before {
+  content: "\e7ed";
+}
+
+.sinoval-NumberSymbol-1:before {
+  content: "\e8ed";
+}
+
+.sinoval-TextDescription-1:before {
+  content: "\e9ed";
+}
+
+.sinoval-WeatherMoon:before {
+  content: "\eaed";
+}
+
+.sinoval-Calendar3Day:before {
+  content: "\e6e8";
+}
+
+.sinoval-ExtendedDock-1:before {
+  content: "\e7ee";
+}
+
+.sinoval-OfficeApps:before {
+  content: "\e8ee";
+}
+
+.sinoval-TextIndentDecrease:before {
+  content: "\e9ee";
+}
+
+.sinoval-Unlock-1:before {
+  content: "\eaee";
+}
+
+.sinoval-CalendarAgenda:before {
+  content: "\e6e9";
+}
+
+.sinoval-EraserTool:before {
+  content: "\e7ef";
+}
+
+.sinoval-OpenFolder-1:before {
+  content: "\e8ef";
+}
+
+.sinoval-WebAsset-1:before {
+  content: "\e9ef";
+}
+
+.sinoval-TripleColumn-1:before {
+  content: "\eaef";
+}
+
+.sinoval-CalendarDate-1:before {
+  content: "\e6ea";
+}
+
+.sinoval-Extension-1:before {
+  content: "\e7f0";
+}
+
+.sinoval-OpenInBrowser-1:before {
+  content: "\e8f0";
+}
+
+.sinoval-WebAsset:before {
+  content: "\e9f0";
+}
+
+.sinoval-Mail:before {
+  content: "\eaf0";
+}
+
+.sinoval-CalendarMonth:before {
+  content: "\e6eb";
+}
+
+.sinoval-EyeShow-1:before {
+  content: "\e7f1";
+}
+
+.sinoval-Open-1:before {
+  content: "\e8f1";
+}
+
+.sinoval-PhoneLaptop-1:before {
+  content: "\e9f1";
+}
+
+.sinoval-TextLineSpacing-1:before {
+  content: "\eaf1";
+}
+
+.sinoval-CalendarStarred-1:before {
+  content: "\e6ec";
+}
+
+.sinoval-EyeShow:before {
+  content: "\e7f2";
+}
+
+.sinoval-OpenFolder:before {
+  content: "\e8f2";
+}
+
+.sinoval-Temperature-1:before {
+  content: "\e9f2";
+}
+
+.sinoval-ViewDesktop-1:before {
+  content: "\eaf2";
+}
+
+.sinoval-BookFormulaInformation:before {
+  content: "\e6ee";
+}
+
+.sinoval-EyeHide:before {
+  content: "\e7f3";
+}
+
+.sinoval-OrganizationChart-1:before {
+  content: "\e8f3";
+}
+
+.sinoval-WeatherRainShowersDay-1:before {
+  content: "\e9f3";
+}
+
+.sinoval-TableAdd-1:before {
+  content: "\eaf3";
+}
+
+.sinoval-CalendarWeekNumbers-1:before {
+  content: "\e6ef";
+}
+
+.sinoval-ChevronLeft-1:before {
+  content: "\e7f4";
+}
+
+.sinoval-Owner:before {
+  content: "\e8f4";
+}
+
+.sinoval-PhoneError-1:before {
+  content: "\e9f4";
+}
+
+.sinoval-MoviesandTV-1:before {
+  content: "\eaf4";
+}
+
+.sinoval-CalendarMonth-1:before {
+  content: "\e6f0";
+}
+
+.sinoval-FastForward:before {
+  content: "\e7f5";
+}
+
+.sinoval-OrganizationChart:before {
+  content: "\e8f5";
+}
+
+.sinoval-USBStick:before {
+  content: "\e9f5";
+}
+
+.sinoval-TimeAndWeather:before {
+  content: "\eaf5";
+}
+
+.sinoval-CalendarAvailability:before {
+  content: "\e6f1";
+}
+
+.sinoval-FastAcceleration:before {
+  content: "\e7f6";
+}
+
+.sinoval-PageView:before {
+  content: "\e8f6";
+}
+
+.sinoval-TabInPrivate:before {
+  content: "\e9f6";
+}
+
+.sinoval-Translate-1:before {
+  content: "\eaf6";
+}
+
+.sinoval-CalendarEmpty:before {
+  content: "\e6f3";
+}
+
+.sinoval-FastForward-1:before {
+  content: "\e7f7";
+}
+
+.sinoval-PageView-1:before {
+  content: "\e8f7";
+}
+
+.sinoval-WeatherRainSnow-1:before {
+  content: "\e9f7";
+}
+
+.sinoval-WeatherSnowflake:before {
+  content: "\eaf7";
+}
+
+.sinoval-CalendarDate:before {
+  content: "\e6f5";
+}
+
+.sinoval-FastMode:before {
+  content: "\e7f8";
+}
+
+.sinoval-Open:before {
+  content: "\e8f8";
+}
+
+.sinoval-VideoPlayPause-1:before {
+  content: "\e9f8";
+}
+
+.sinoval-Wallpaper-1:before {
+  content: "\eaf8";
+}
+
+.sinoval-CallEnd-1:before {
+  content: "\e6f6";
+}
+
+.sinoval-Filter-1:before {
+  content: "\e7f9";
+}
+
+.sinoval-Patient-1:before {
+  content: "\e8f9";
+}
+
+.sinoval-WeatherThunderstorm:before {
+  content: "\e9f9";
+}
+
+.sinoval-ThumbDislike-1:before {
+  content: "\eaf9";
+}
+
+.sinoval-CalendarRecurring:before {
+  content: "\e6f7";
+}
+
+.sinoval-Filter:before {
+  content: "\e7fa";
+}
+
+.sinoval-Patient:before {
+  content: "\e8fa";
+}
+
+.sinoval-Weekend-1:before {
+  content: "\e9fa";
+}
+
+.sinoval-TabNew:before {
+  content: "\eafa";
+}
+
+.sinoval-CallEnd:before {
+  content: "\e6f8";
+}
+
+.sinoval-FastAcceleration-1:before {
+  content: "\e7fb";
+}
+
+.sinoval-Payment:before {
+  content: "\e8fb";
+}
+
+.sinoval-WeatherHailNight-1:before {
+  content: "\e9fb";
+}
+
+.sinoval-Thinking-1:before {
+  content: "\eafb";
+}
+
+.sinoval-CallAdd-1:before {
+  content: "\e6f9";
+}
+
+.sinoval-FitWidth-1:before {
+  content: "\e7fc";
+}
+
+.sinoval-Pause:before {
+  content: "\e8fc";
+}
+
+.sinoval-Weekend:before {
+  content: "\e9fc";
+}
+
+.sinoval-TextQuote-1:before {
+  content: "\eafc";
+}
+
+.sinoval-CalendarWeekStart-1:before {
+  content: "\e6fa";
+}
+
+.sinoval-Flag:before {
+  content: "\e7fd";
+}
+
+.sinoval-Payment-1:before {
+  content: "\e8fd";
+}
+
+.sinoval-WiFi4-1:before {
+  content: "\e9fd";
+}
+
+.sinoval-TextUnderline-1:before {
+  content: "\eafd";
+}
+
+.sinoval-BookFormulaLookup:before {
+  content: "\e6fb";
+}
+
+.sinoval-FitWidth:before {
+  content: "\e7fe";
+}
+
+.sinoval-Pair-1:before {
+  content: "\e8fe";
+}
+
+.sinoval-TabTrackingPrevention:before {
+  content: "\e9fe";
+}
+
+.sinoval-TextItalic:before {
+  content: "\eafe";
+}
+
+.sinoval-CalendarWeekNumbers:before {
+  content: "\e6fc";
+}
+
+.sinoval-Flag-1:before {
+  content: "\e7ff";
+}
+
+.sinoval-Pair:before {
+  content: "\e8ff";
+}
+
+.sinoval-WeatherSnowShowerNight-1:before {
+  content: "\e9ff";
+}
+
+.sinoval-TextFont-1:before {
+  content: "\eaff";
+}
+
+.sinoval-CalendarDay:before {
+  content: "\e6fd";
+}
+
+.sinoval-Fingerprint:before {
+  content: "\e800";
+}
+
+.sinoval-PenSettings-1:before {
+  content: "\e900";
+}
+
+.sinoval-WiFi3:before {
+  content: "\ea00";
+}
+
+.sinoval-Ticket:before {
+  content: "\eb00";
+}
+
+.sinoval-CalendarWeekStart:before {
+  content: "\e6fe";
+}
+
+.sinoval-FlashOn-1:before {
+  content: "\e801";
+}
+
+.sinoval-PeopleCommunity-1:before {
+  content: "\e901";
+}
+
+.sinoval-PSTNCall-1:before {
+  content: "\ea01";
+}
+
+.sinoval-MoviesandTV:before {
+  content: "\eb01";
+}
+
+.sinoval-CallForward:before {
+  content: "\e6ff";
+}
+
+.sinoval-DataArea-1:before {
+  content: "\e802";
+}
+
+.sinoval-PeopleCommunityAdd-1:before {
+  content: "\e902";
+}
+
+.sinoval-Shield-1:before {
+  content: "\ea02";
+}
+
+.sinoval-UninstallApp:before {
+  content: "\eb02";
+}
+
+.sinoval-Activity:before {
+  content: "\e604";
+}
+
+.sinoval-CallInbound-1:before {
+  content: "\e700";
+}
+
+.sinoval-FlashOn:before {
+  content: "\e803";
+}
+
+.sinoval-PeopleAdd:before {
+  content: "\e903";
+}
+
+.sinoval-WindowDevTools:before {
+  content: "\ea03";
+}
+
+.sinoval-TabNew-1:before {
+  content: "\eb03";
+}
+
+.sinoval-AlertUrgent:before {
+  content: "\e606";
+}
+
+.sinoval-CalendarEmpty-1:before {
+  content: "\e701";
+}
+
+.sinoval-FlashOff:before {
+  content: "\e804";
+}
+
+.sinoval-PeopleAdd-1:before {
+  content: "\e904";
+}
+
+.sinoval-SelectAllOff:before {
+  content: "\ea04";
+}
+
+.sinoval-WeatherSnowShowerDay-1:before {
+  content: "\eb04";
+}
+
+.sinoval-Apps:before {
+  content: "\e609";
+}
+
+.sinoval-Camera:before {
+  content: "\e702";
+}
+
+.sinoval-FlashAuto-1:before {
+  content: "\e805";
+}
+
+.sinoval-PenSettings:before {
+  content: "\e905";
+}
+
+.sinoval-ShareScreen-1:before {
+  content: "\ea05";
+}
+
+.sinoval-TextAlignLeft-1:before {
+  content: "\eb05";
+}
+
+.sinoval-AlertOn:before {
+  content: "\e610";
+}
+
+.sinoval-CallMissed:before {
+  content: "\e703";
+}
+
+.sinoval-FlashAuto:before {
+  content: "\e806";
+}
+
+.sinoval-PeopleCommunityAdd:before {
+  content: "\e906";
+}
+
+.sinoval-FontSpaceTrackingIn:before {
+  content: "\ea06";
+}
+
+.sinoval-jiankongbaojing:before {
+  content: "\eb06";
+}
+
+.sinoval-Bot:before {
+  content: "\e629";
+}
+
+.sinoval-CallInbound:before {
+  content: "\e704";
+}
+
+.sinoval-PhoneUpdate:before {
+  content: "\e807";
+}
+
+.sinoval-People-1:before {
+  content: "\e907";
+}
+
+.sinoval-Rewind:before {
+  content: "\ea07";
+}
+
+.sinoval-zhongfubaojing:before {
+  content: "\eb07";
+}
+
+.sinoval-ContactCard:before {
+  content: "\e651";
+}
+
+.sinoval-CallMissed-1:before {
+  content: "\e705";
+}
+
+.sinoval-Flashlight-1:before {
+  content: "\e808";
+}
+
+.sinoval-People:before {
+  content: "\e908";
+}
+
+.sinoval-RadioButton:before {
+  content: "\ea08";
+}
+
+.sinoval-quanxian:before {
+  content: "\eb08";
+}
+
+.sinoval-DataBarVertical:before {
+  content: "\e65c";
+}
+
+.sinoval-Cast-1:before {
+  content: "\e706";
+}
+
+.sinoval-FolderJunk:before {
+  content: "\e809";
+}
+
+.sinoval-ErrorCircle:before {
+  content: "\e909";
+}
+
+.sinoval-ReadAloud-1:before {
+  content: "\ea09";
+}
+
+.sinoval-jiaoseguanli:before {
+  content: "\eb09";
+}
+
+.sinoval-DataHistogram:before {
+  content: "\e65d";
+}
+
+.sinoval-Cellular4G:before {
+  content: "\e707";
+}
+
+.sinoval-FlashlightOff:before {
+  content: "\e80a";
+}
+
+.sinoval-PeopleTeam:before {
+  content: "\e90a";
+}
+
+.sinoval-Presenter-1:before {
+  content: "\ea0a";
+}
+
+.sinoval-jingwuicon_svg-:before {
+  content: "\eb0a";
+}
+
+.sinoval-DataScatter:before {
+  content: "\e661";
+}
+
+.sinoval-CallAdd:before {
+  content: "\e708";
+}
+
+.sinoval-FolderAdd-1:before {
+  content: "\e80b";
+}
+
+.sinoval-PeopleCommunity:before {
+  content: "\e90b";
+}
+
+.sinoval-Predictions-1:before {
+  content: "\ea0b";
+}
+
+.sinoval-baojing:before {
+  content: "\eb0b";
+}
+
+.sinoval-DataTreemap:before {
+  content: "\e662";
+}
+
+.sinoval-CellularData2:before {
+  content: "\e70a";
+}
+
+.sinoval-Phone:before {
+  content: "\e80c";
+}
+
+.sinoval-PeopleSearch:before {
+  content: "\e90c";
+}
+
+.sinoval-PPTOutline:before {
+  content: "\ea0c";
+}
+
+.sinoval-ziyuan:before {
+  content: "\eb0c";
+}
+
+.sinoval-Desktop:before {
+  content: "\e665";
+}
+
+.sinoval-Cellular3G:before {
+  content: "\e70b";
+}
+
+.sinoval-FlagOff:before {
+  content: "\e80d";
+}
+
+.sinoval-ExtendedDock:before {
+  content: "\e90d";
+}
+
+.sinoval-PPTOutline-1:before {
+  content: "\ea0d";
+}
+
+.sinoval-quanxianpeizhi:before {
+  content: "\eb0d";
+}
+
+.sinoval-DeveloperBoard:before {
+  content: "\e666";
+}
+
+.sinoval-CellularData1-1:before {
+  content: "\e70c";
+}
+
+.sinoval-FolderLink-1:before {
+  content: "\e80e";
+}
+
+.sinoval-PersonBlock:before {
+  content: "\e90e";
+}
+
+.sinoval-Premium:before {
+  content: "\ea0e";
+}
+
+.sinoval-baojingfenxi:before {
+  content: "\eb0e";
+}
+
+.sinoval-Drafts:before {
+  content: "\e66f";
+}
+
+.sinoval-CallForward-1:before {
+  content: "\e70d";
+}
+
+.sinoval-PlayCircle:before {
+  content: "\e80f";
+}
+
+.sinoval-PersonAdd-1:before {
+  content: "\e90f";
+}
+
+.sinoval-FlashlightOff-1:before {
+  content: "\ea0f";
+}
+
+.sinoval-Extension:before {
+  content: "\e676";
+}
+
+.sinoval-Cellular3G-1:before {
+  content: "\e70e";
+}
+
+.sinoval-FolderMove:before {
+  content: "\e810";
+}
+
+.sinoval-PersonAvailable-1:before {
+  content: "\e910";
+}
+
+.sinoval-WiFi2:before {
+  content: "\ea10";
+}
+
+.sinoval-ImmersiveReader-1:before {
+  content: "\e690";
+}
+
+.sinoval-CellularData1:before {
+  content: "\e710";
+}
+
+.sinoval-FolderLink:before {
+  content: "\e811";
+}
+
+.sinoval-PersonDelete-1:before {
+  content: "\e911";
+}
+
+.sinoval-XboxConsole:before {
+  content: "\ea11";
+}
+
+.sinoval-ImmersiveReader:before {
+  content: "\e691";
+}
+
+.sinoval-ClipboardText:before {
+  content: "\e711";
+}
+
+.sinoval-FolderOpen-1:before {
+  content: "\e812";
+}
+
+.sinoval-EyeHide-1:before {
+  content: "\e912";
+}
+
+.sinoval-ReOrder:before {
+  content: "\ea12";
+}
+
+.sinoval-PersonAccounts:before {
+  content: "\e6b9";
+}
+
+.sinoval-CellularData5-1:before {
+  content: "\e712";
+}
+
+.sinoval-FolderOpen:before {
+  content: "\e813";
+}
+
+.sinoval-PersonFeedback:before {
+  content: "\e913";
+}
+
+.sinoval-Tab-1:before {
+  content: "\ea13";
+}
+
+.sinoval-PersonAvailable:before {
+  content: "\e6ba";
+}
+
+.sinoval-CellularData4-1:before {
+  content: "\e713";
+}
+
+.sinoval-Folder:before {
+  content: "\e814";
+}
+
+.sinoval-PersonLeave-1:before {
+  content: "\e914";
+}
+
+.sinoval-TextFont:before {
+  content: "\ea14";
+}
+
+.sinoval-Poll:before {
+  content: "\e6c4";
+}
+
+.sinoval-CellularData3:before {
+  content: "\e714";
+}
+
+.sinoval-FontDecrease-1:before {
+  content: "\e815";
+}
+
+.sinoval-PersonTentative:before {
+  content: "\e915";
+}
+
+.sinoval-WindowDevTools-1:before {
+  content: "\ea15";
+}
+
+.sinoval-Settings:before {
+  content: "\e6ce";
+}
+
+.sinoval-CellularData2-1:before {
+  content: "\e715";
+}
+
+.sinoval-FontIncrease:before {
+  content: "\e816";
+}
+
+.sinoval-PersonLeave:before {
+  content: "\e916";
+}
+
+.sinoval-TabSweep:before {
+  content: "\ea16";
+}
+
+.sinoval-SlideAdd:before {
+  content: "\e6ed";
+}
+
+.sinoval-CellularData3-1:before {
+  content: "\e717";
+}
+
+.sinoval-Folder-1:before {
+  content: "\e817";
+}
+
+.sinoval-PersonTentative-1:before {
+  content: "\e917";
+}
+
+.sinoval-WiFi4:before {
+  content: "\ea17";
+}
+
+.sinoval-Whiteboard:before {
+  content: "\e6f2";
+}
+
+.sinoval-CellularData5:before {
+  content: "\e718";
+}
+
+.sinoval-FontDecrease:before {
+  content: "\e818";
+}
+
+.sinoval-PersonDelete:before {
+  content: "\e918";
+}
+
+.sinoval-ReadingModeMobile:before {
+  content: "\ea18";
+}
+
+.sinoval-Tablet:before {
+  content: "\e6f4";
+}
+
+.sinoval-CellularOff-1:before {
+  content: "\e719";
+}
+
+.sinoval-FontSpaceTrackingIn-1:before {
+  content: "\e819";
+}
+
+.sinoval-PersonFeedback-1:before {
+  content: "\e919";
+}
+
+.sinoval-Shifts-1:before {
+  content: "\ea19";
+}
+
+.sinoval-TopSpeed:before {
+  content: "\e709";
+}
+
+.sinoval-CellularUnavailable:before {
+  content: "\e71a";
+}
+
+.sinoval-Food-1:before {
+  content: "\e81a";
+}
+
+.sinoval-PhoneAddNewApp:before {
+  content: "\e91a";
+}
+
+.sinoval-Save-1:before {
+  content: "\ea1a";
+}
+
+.sinoval-Notepad:before {
+  content: "\e70f";
+}
+
+.sinoval-CellularOff:before {
+  content: "\e71b";
+}
+
+.sinoval-Food:before {
+  content: "\e81b";
+}
+
+.sinoval-Person-1:before {
+  content: "\e91b";
+}
+
+.sinoval-WiFi5:before {
+  content: "\ea1b";
+}
+
+.sinoval-LauncherSettings:before {
+  content: "\e716";
+}
+
+.sinoval-CellularUnavailable-1:before {
+  content: "\e71c";
+}
+
+.sinoval-FontSpaceTrackingOut-1:before {
+  content: "\e81c";
+}
+
+.sinoval-Person:before {
+  content: "\e91c";
+}
+
+.sinoval-QRCode-1:before {
+  content: "\ea1c";
+}
+
+.sinoval-Accessibility:before {
+  content: "\e603";
+}
+
+.sinoval-CalendarDay-1:before {
+  content: "\e71d";
+}
+
+.sinoval-FontSpaceTrackingOut:before {
+  content: "\e81d";
+}
+
+.sinoval-FastMode-1:before {
+  content: "\e91d";
+}
+
+.sinoval-Premium-1:before {
+  content: "\ea1d";
+}
+
+.sinoval-shenglve:before {
+  content: "\e605";
+}
+
+.sinoval-Cast:before {
+  content: "\e71e";
+}
+
+.sinoval-FullScreenZoom-1:before {
+  content: "\e81e";
+}
+
+.sinoval-PersonVoice:before {
+  content: "\e91e";
+}
+
+.sinoval-ShiftsTeam-1:before {
+  content: "\ea1e";
+}
+
+.sinoval-Accessibility-1:before {
+  content: "\e607";
+}
+
+.sinoval-ChannelNotifications:before {
+  content: "\e71f";
+}
+
+.sinoval-Gesture-1:before {
+  content: "\e81f";
+}
+
+.sinoval-PhoneDesktop:before {
+  content: "\e91f";
+}
+
+.sinoval-PSTNCall:before {
+  content: "\ea1f";
+}
+
+.sinoval-AccessTime-1:before {
+  content: "\e608";
+}
+
+.sinoval-ChannelUnfollow:before {
+  content: "\e720";
+}
+
+.sinoval-Games:before {
+  content: "\e820";
+}
+
+.sinoval-PhoneHomeLock-1:before {
+  content: "\e920";
+}
+
+.sinoval-Remove:before {
+  content: "\ea20";
+}
+
+.sinoval-AddCircle:before {
+  content: "\e60a";
+}
+
+.sinoval-ChevronRight-1:before {
+  content: "\e721";
+}
+
+.sinoval-Games-1:before {
+  content: "\e821";
+}
+
+.sinoval-PhoneLaptop:before {
+  content: "\e921";
+}
+
+.sinoval-Print-1:before {
+  content: "\ea21";
+}
+
+.sinoval-AccessTime:before {
+  content: "\e60b";
+}
+
+.sinoval-ChannelUnfollow-1:before {
+  content: "\e722";
+}
+
+.sinoval-FullScreenZoom:before {
+  content: "\e822";
+}
+
+.sinoval-PhoneHomeLock:before {
+  content: "\e922";
+}
+
+.sinoval-ShareCloseTray-1:before {
+  content: "\ea22";
+}
+
+.sinoval-AddCircle-1:before {
+  content: "\e60c";
+}
+
+.sinoval-ChevronRight:before {
+  content: "\e723";
+}
+
+.sinoval-FPS240:before {
+  content: "\e823";
+}
+
+.sinoval-PhoneError:before {
+  content: "\e923";
+}
+
+.sinoval-PhoneStatusBar:before {
+  content: "\ea23";
+}
+
+.sinoval-Activity-1:before {
+  content: "\e60d";
+}
+
+.sinoval-Channel:before {
+  content: "\e724";
+}
+
+.sinoval-Gift-1:before {
+  content: "\e824";
+}
+
+.sinoval-PhoneLinkSetup-1:before {
+  content: "\e924";
+}
+
+.sinoval-Sleep-1:before {
+  content: "\ea24";
+}
+
+.sinoval-Add:before {
+  content: "\e60e";
+}
+
+.sinoval-ChevronUp-1:before {
+  content: "\e725";
+}
+
+.sinoval-GIF-1:before {
+  content: "\e825";
+}
+
+.sinoval-FlagOff-1:before {
+  content: "\e925";
+}
+
+.sinoval-Presenter:before {
+  content: "\ea25";
+}
+
+.sinoval-AddressBookNumber:before {
+  content: "\e60f";
+}
+
+.sinoval-ChevronUp:before {
+  content: "\e726";
+}
+
+.sinoval-Glance-1:before {
+  content: "\e826";
+}
+
+.sinoval-Fingerprint-1:before {
+  content: "\e926";
+}
+
+.sinoval-Print:before {
+  content: "\ea26";
+}
+
+.sinoval-AddressBookNumber-1:before {
+  content: "\e611";
+}
+
+.sinoval-Class-1:before {
+  content: "\e727";
+}
+
+.sinoval-Gesture:before {
+  content: "\e827";
+}
+
+.sinoval-PhoneScreenTime:before {
+  content: "\e927";
+}
+
+.sinoval-ShiftsTeam:before {
+  content: "\ea27";
+}
+
+.sinoval-Airplane-1:before {
+  content: "\e612";
+}
+
+.sinoval-Class:before {
+  content: "\e728";
+}
+
+.sinoval-Gift:before {
+  content: "\e828";
+}
+
+.sinoval-PhonePageHeader:before {
+  content: "\e928";
+}
+
+.sinoval-WiFiProtected-1:before {
+  content: "\ea28";
+}
+
+.sinoval-Add-1:before {
+  content: "\e613";
+}
+
+.sinoval-ClipboardPaste-1:before {
+  content: "\e729";
+}
+
+.sinoval-FPS960-1:before {
+  content: "\e829";
+}
+
+.sinoval-PhonePageHeader-1:before {
+  content: "\e929";
+}
+
+.sinoval-Power:before {
+  content: "\ea29";
+}
+
+.sinoval-AlertOff-1:before {
+  content: "\e614";
+}
+
+.sinoval-Cellular4G-1:before {
+  content: "\e72a";
+}
+
+.sinoval-GlobeDesktop:before {
+  content: "\e82a";
+}
+
+.sinoval-PhoneMobile-1:before {
+  content: "\e92a";
+}
+
+.sinoval-PhoneUpdate-1:before {
+  content: "\ea2a";
+}
+
+.sinoval-AlertOn-1:before {
+  content: "\e615";
+}
+
+.sinoval-CellularData4:before {
+  content: "\e72b";
+}
+
+.sinoval-GlobeAdd:before {
+  content: "\e82b";
+}
+
+.sinoval-PhoneStatusBar-1:before {
+  content: "\e92b";
+}
+
+.sinoval-RadioButton-1:before {
+  content: "\ea2b";
+}
+
+.sinoval-AlertSnooze-1:before {
+  content: "\e616";
+}
+
+.sinoval-Certificate:before {
+  content: "\e72c";
+}
+
+.sinoval-FontIncrease-1:before {
+  content: "\e82c";
+}
+
+.sinoval-PhonePagination-1:before {
+  content: "\e92c";
+}
+
+.sinoval-PhoneVibrate-1:before {
+  content: "\ea2c";
+}
+
+.sinoval-AlertOff:before {
+  content: "\e617";
+}
+
+.sinoval-ClipboardPaste:before {
+  content: "\e72d";
+}
+
+.sinoval-GlobeDesktop-1:before {
+  content: "\e82d";
+}
+
+.sinoval-PhoneScreenTime-1:before {
+  content: "\e92d";
+}
+
+.sinoval-XboxConsole-1:before {
+  content: "\ea2d";
+}
+
+.sinoval-Airplane:before {
+  content: "\e618";
+}
+
+.sinoval-Classification-1:before {
+  content: "\e72e";
+}
+
+.sinoval-GlobeAdd-1:before {
+  content: "\e82e";
+}
+
+.sinoval-PhoneDesktop-1:before {
+  content: "\e92e";
+}
+
+.sinoval-WiFi3-1:before {
+  content: "\ea2e";
+}
+
+.sinoval-AlertSnooze:before {
+  content: "\e619";
+}
+
+.sinoval-Certificate-1:before {
+  content: "\e72f";
+}
+
+.sinoval-GIF:before {
+  content: "\e82f";
+}
+
+.sinoval-PhoneLinkSetup:before {
+  content: "\e92f";
+}
+
+.sinoval-VideoClip-1:before {
+  content: "\ea2f";
+}
+
+.sinoval-AppGeneric:before {
+  content: "\e61a";
+}
+
+.sinoval-ChannelFollow-1:before {
+  content: "\e730";
+}
+
+.sinoval-Globe:before {
+  content: "\e830";
+}
+
+.sinoval-PhoneMobile:before {
+  content: "\e930";
+}
+
+.sinoval-QRCode:before {
+  content: "\ea30";
+}
+
+.sinoval-Alert:before {
+  content: "\e61b";
+}
+
+.sinoval-CallPark-1:before {
+  content: "\e731";
+}
+
+.sinoval-GlobeVideo:before {
+  content: "\e831";
+}
+
+.sinoval-FlashOff-1:before {
+  content: "\e931";
+}
+
+.sinoval-WiFi1-1:before {
+  content: "\ea31";
+}
+
+.sinoval-Alert-1:before {
+  content: "\e61c";
+}
+
+.sinoval-Clock-1:before {
+  content: "\e732";
+}
+
+.sinoval-Globe-1:before {
+  content: "\e832";
+}
+
+.sinoval-PhoneVerticalScroll-1:before {
+  content: "\e932";
+}
+
+.sinoval-ReOrder-1:before {
+  content: "\ea32";
+}
+
+.sinoval-AppGeneric-1:before {
+  content: "\e61d";
+}
+
+.sinoval-ClosedCaption-1:before {
+  content: "\e733";
+}
+
+.sinoval-Grid:before {
+  content: "\e833";
+}
+
+.sinoval-PhoneToPC-1:before {
+  content: "\e933";
+}
+
+.sinoval-Voicemail-1:before {
+  content: "\ea33";
+}
+
+.sinoval-AlertUrgent-1:before {
+  content: "\e61e";
+}
+
+.sinoval-CallOutbound-1:before {
+  content: "\e734";
+}
+
+.sinoval-GlobeLocation:before {
+  content: "\e834";
+}
+
+.sinoval-PhoneTablet-1:before {
+  content: "\e934";
+}
+
+.sinoval-WeatherBlowingSnow:before {
+  content: "\ea34";
+}
+
+.sinoval-AppSpan:before {
+  content: "\e61f";
+}
+
+.sinoval-CallOutbound:before {
+  content: "\e735";
+}
+
+.sinoval-GlobeLocation-1:before {
+  content: "\e835";
+}
+
+.sinoval-PhoneVerticalScroll:before {
+  content: "\e935";
+}
+
+.sinoval-WeatherRain:before {
+  content: "\ea35";
+}
+
+.sinoval-AppRecent:before {
+  content: "\e620";
+}
+
+.sinoval-Clock:before {
+  content: "\e736";
+}
+
+.sinoval-GroupList-1:before {
+  content: "\e836";
+}
+
+.sinoval-Flashlight:before {
+  content: "\e936";
+}
+
+.sinoval-WeatherSunny-1:before {
+  content: "\ea36";
+}
+
+.sinoval-AppTitle:before {
+  content: "\e621";
+}
+
+.sinoval-ClosedCaption:before {
+  content: "\e737";
+}
+
+.sinoval-GroupList:before {
+  content: "\e837";
+}
+
+.sinoval-WiFiProtected:before {
+  content: "\e937";
+}
+
+.sinoval-VideoSecurity-1:before {
+  content: "\ea37";
+}
+
+.sinoval-AppFolder-1:before {
+  content: "\e622";
+}
+
+.sinoval-CallPark:before {
+  content: "\e738";
+}
+
+.sinoval-Guest-1:before {
+  content: "\e838";
+}
+
+.sinoval-PhoneToPC:before {
+  content: "\e938";
+}
+
+.sinoval-WeatherHailDay:before {
+  content: "\ea38";
+}
+
+.sinoval-Archive-1:before {
+  content: "\e623";
+}
+
+.sinoval-Channel-1:before {
+  content: "\e739";
+}
+
+.sinoval-Headphones:before {
+  content: "\e839";
+}
+
+.sinoval-PhotoRotate-1:before {
+  content: "\e939";
+}
+
+.sinoval-WeatherSnowShowerDay:before {
+  content: "\ea39";
+}
+
+.sinoval-Archive:before {
+  content: "\e624";
+}
+
+.sinoval-ChatHelp-1:before {
+  content: "\e73a";
+}
+
+.sinoval-Guest:before {
+  content: "\e83a";
+}
+
+.sinoval-FolderAdd:before {
+  content: "\e93a";
+}
+
+.sinoval-ResizeImage-1:before {
+  content: "\ea3a";
+}
+
+.sinoval-AppUnspan-1:before {
+  content: "\e625";
+}
+
+.sinoval-Chat-1:before {
+  content: "\e73b";
+}
+
+.sinoval-Headphones-1:before {
+  content: "\e83b";
+}
+
+.sinoval-FolderJunk-1:before {
+  content: "\e93b";
+}
+
+.sinoval-GlobeVideo-1:before {
+  content: "\ea3b";
+}
+
+.sinoval-AppsAddIn:before {
+  content: "\e626";
+}
+
+.sinoval-CheckboxChecked-1:before {
+  content: "\e73c";
+}
+
+.sinoval-Collections:before {
+  content: "\e83c";
+}
+
+.sinoval-PhotoFilter:before {
+  content: "\e93c";
+}
+
+.sinoval-PlayCircle-1:before {
+  content: "\ea3c";
+}
+
+.sinoval-AppsList:before {
+  content: "\e627";
+}
+
+.sinoval-ChatHelp:before {
+  content: "\e73d";
+}
+
+.sinoval-Headset:before {
+  content: "\e83d";
+}
+
+.sinoval-PhotoRotate:before {
+  content: "\e93d";
+}
+
+.sinoval-Settings-1:before {
+  content: "\ea3d";
+}
+
+.sinoval-AppSpan-1:before {
+  content: "\e628";
+}
+
+.sinoval-Chat:before {
+  content: "\e73e";
+}
+
+.sinoval-HeadsetVR-1:before {
+  content: "\e83e";
+}
+
+.sinoval-Phone-1:before {
+  content: "\e93e";
+}
+
+.sinoval-WeatherCloudy:before {
+  content: "\ea3e";
+}
+
+.sinoval-AppsList-1:before {
+  content: "\e62a";
+}
+
+.sinoval-CheckboxChecked:before {
+  content: "\e73f";
+}
+
+.sinoval-Headset-1:before {
+  content: "\e83f";
+}
+
+.sinoval-PhoneTablet:before {
+  content: "\e93f";
+}
+
+.sinoval-TextAlignJustify:before {
+  content: "\ea3f";
+}
+
+.sinoval-AppUnspan:before {
+  content: "\e62b";
+}
+
+.sinoval-ChevronDownCircle:before {
+  content: "\e740";
+}
+
+.sinoval-HDR:before {
+  content: "\e840";
+}
+
+.sinoval-PhotoFilter-1:before {
+  content: "\e940";
+}
+
+.sinoval-WeatherSnowShowerNight:before {
+  content: "\ea40";
+}
+
+.sinoval-AppRecent-1:before {
+  content: "\e62c";
+}
+
+.sinoval-Checkmark:before {
+  content: "\e741";
+}
+
+.sinoval-HelpCircle-1:before {
+  content: "\e841";
+}
+
+.sinoval-PinOff-1:before {
+  content: "\e941";
+}
+
+.sinoval-WeatherSnow-1:before {
+  content: "\ea41";
+}
+
+.sinoval-AppTitle-1:before {
+  content: "\e62d";
+}
+
+.sinoval-ChevronDownCircle-1:before {
+  content: "\e742";
+}
+
+.sinoval-Heart-1:before {
+  content: "\e842";
+}
+
+.sinoval-Play-1:before {
+  content: "\e942";
+}
+
+.sinoval-TextFirstLine-1:before {
+  content: "\ea42";
+}
+
+.sinoval-ArrowClockwise:before {
+  content: "\e62e";
+}
+
+.sinoval-ChevronLeft:before {
+  content: "\e743";
+}
+
+.sinoval-HelpCircle:before {
+  content: "\e843";
+}
+
+.sinoval-Play:before {
+  content: "\e943";
+}
+
+.sinoval-Predictions:before {
+  content: "\ea43";
+}
+
+.sinoval-ArrowDownRightCircle:before {
+  content: "\e62f";
+}
+
+.sinoval-ChevronLeft2:before {
+  content: "\e744";
+}
+
+.sinoval-Heart:before {
+  content: "\e844";
+}
+
+.sinoval-PhoneVibrate:before {
+  content: "\e944";
+}
+
+.sinoval-TextEditStyle-1:before {
+  content: "\ea44";
+}
+
+.sinoval-ArrowCounterclockwise-1:before {
+  content: "\e630";
+}
+
+.sinoval-Checkmark-1:before {
+  content: "\e745";
+}
+
+.sinoval-HeadsetVR:before {
+  content: "\e845";
+}
+
+.sinoval-Pin:before {
+  content: "\e945";
+}
+
+.sinoval-TextBold-1:before {
+  content: "\ea45";
+}
+
+.sinoval-ArrowDownRightCircle-1:before {
+  content: "\e631";
+}
+
+.sinoval-ChevronDown-1:before {
+  content: "\e746";
+}
+
+.sinoval-DataPie:before {
+  content: "\e846";
+}
+
+.sinoval-PointScan-1:before {
+  content: "\e946";
+}
+
+.sinoval-TextEditStyle:before {
+  content: "\ea46";
+}
+
+.sinoval-ArrowDownLeft:before {
+  content: "\e632";
+}
+
+.sinoval-CloudBackup:before {
+  content: "\e747";
+}
+
+.sinoval-History-1:before {
+  content: "\e847";
+}
+
+.sinoval-Pin-1:before {
+  content: "\e947";
+}
+
+.sinoval-TextAlignDistributed:before {
+  content: "\ea47";
+}
+
+.sinoval-ArrowCounterclockwise:before {
+  content: "\e633";
+}
+
+.sinoval-ChevronDown:before {
+  content: "\e748";
+}
+
+.sinoval-Highlight:before {
+  content: "\e848";
+}
+
+.sinoval-FolderMove-1:before {
+  content: "\e948";
+}
+
+.sinoval-TextAdd:before {
+  content: "\ea48";
+}
+
+.sinoval-AppsAddIn-1:before {
+  content: "\e634";
+}
+
+.sinoval-CloudBackup-1:before {
+  content: "\e749";
+}
+
+.sinoval-HideSlide:before {
+  content: "\e849";
+}
+
+.sinoval-PinOff:before {
+  content: "\e949";
+}
+
+.sinoval-TextDescription:before {
+  content: "\ea49";
+}
+
+.sinoval-ArrowDownload:before {
+  content: "\e635";
+}
+
+.sinoval-CloudDownload-1:before {
+  content: "\e74a";
+}
+
+.sinoval-HomeAdd-1:before {
+  content: "\e84a";
+}
+
+.sinoval-Poll-1:before {
+  content: "\e94a";
+}
+
+.sinoval-TableEdit:before {
+  content: "\ea4a";
+}
+
+.sinoval-ArrowDown:before {
+  content: "\e636";
+}
+
+.sinoval-CloudOff-1:before {
+  content: "\e74b";
+}
+
+.sinoval-DataSunburst:before {
+  content: "\e84b";
+}
+
+.sinoval-PointScan:before {
+  content: "\e94b";
+}
+
+.sinoval-WeatherRain-1:before {
+  content: "\ea4b";
+}
+
+.sinoval-ArrowForward:before {
+  content: "\e637";
+}
+
+.sinoval-CommentNext:before {
+  content: "\e74c";
+}
+
+.sinoval-Hub:before {
+  content: "\e84c";
+}
+
+.sinoval-ReadOnly-1:before {
+  content: "\e94c";
+}
+
+.sinoval-TextFontSize-1:before {
+  content: "\ea4c";
+}
+
+.sinoval-ArrowDownload-1:before {
+  content: "\e638";
+}
+
+.sinoval-CloudOffline-1:before {
+  content: "\e74d";
+}
+
+.sinoval-History:before {
+  content: "\e84d";
+}
+
+.sinoval-Power-1:before {
+  content: "\e94d";
+}
+
+.sinoval-Temperature:before {
+  content: "\ea4d";
+}
+
+.sinoval-Apps-1:before {
+  content: "\e639";
+}
+
+.sinoval-CommentNext-1:before {
+  content: "\e74e";
+}
+
+.sinoval-SiteBlocked-1:before {
+  content: "\e84e";
+}
+
+.sinoval-ReadOnly:before {
+  content: "\e94e";
+}
+
+.sinoval-WeatherRainShowersNight-1:before {
+  content: "\ea4e";
+}
+
+.sinoval-ArrowEnter:before {
+  content: "\e63a";
+}
+
+.sinoval-CommentDelete-1:before {
+  content: "\e74f";
+}
+
+.sinoval-Home-1:before {
+  content: "\e84f";
+}
+
+.sinoval-ReadAloud:before {
+  content: "\e94f";
+}
+
+.sinoval-WiFi1:before {
+  content: "\ea4f";
+}
+
+.sinoval-ArrowForward-1:before {
+  content: "\e63b";
+}
+
+.sinoval-CommentDelete:before {
+  content: "\e750";
+}
+
+.sinoval-ImageAdd:before {
+  content: "\e850";
+}
+
+.sinoval-ReadingListAdd-1:before {
+  content: "\e950";
+}
+
+.sinoval-WeatherCloudy-1:before {
+  content: "\ea50";
+}
+
+.sinoval-ArrowExpand-1:before {
+  content: "\e63c";
+}
+
+.sinoval-CloudOffline:before {
+  content: "\e751";
+}
+
+.sinoval-ImageAdd-1:before {
+  content: "\e851";
+}
+
+.sinoval-ReadingList-1:before {
+  content: "\e951";
+}
+
+.sinoval-MailInbox-1:before {
+  content: "\ea51";
+}
+
+.sinoval-ArrowExport:before {
+  content: "\e63d";
+}
+
+.sinoval-CloudSyncComplete-1:before {
+  content: "\e752";
+}
+
+.sinoval-ImageLibrary:before {
+  content: "\e852";
+}
+
+.sinoval-ReadingList:before {
+  content: "\e952";
+}
+
+.sinoval-TabTrackingPrevention-1:before {
+  content: "\ea52";
+}
+
+.sinoval-ArrowExpand:before {
+  content: "\e63e";
+}
+
+.sinoval-CloudOff:before {
+  content: "\e753";
+}
+
+.sinoval-Highlight-1:before {
+  content: "\e853";
+}
+
+.sinoval-ReadingListAdd:before {
+  content: "\e953";
+}
+
+.sinoval-PersonBlock-1:before {
+  content: "\ea53";
+}
+
+.sinoval-ArrowDown-1:before {
+  content: "\e63f";
+}
+
+.sinoval-CameraAdd:before {
+  content: "\e754";
+}
+
+.sinoval-Image-1:before {
+  content: "\e854";
+}
+
+.sinoval-ReadingModeMobile-1:before {
+  content: "\e954";
+}
+
+.sinoval-Location-1:before {
+  content: "\ea54";
+}
+
+.sinoval-ArrowClockwise-1:before {
+  content: "\e640";
+}
+
+.sinoval-CameraAdd-1:before {
+  content: "\e755";
+}
+
+.sinoval-Important-1:before {
+  content: "\e855";
+}
+
+.sinoval-FPS240-1:before {
+  content: "\e955";
+}
+
+.sinoval-WeatherPartlyCloudyNight:before {
+  content: "\ea55";
+}
+
+.sinoval-ArrowLeft-1:before {
+  content: "\e641";
+}
+
+.sinoval-CloudDownload:before {
+  content: "\e756";
+}
+
+.sinoval-Incognito-1:before {
+  content: "\e856";
+}
+
+.sinoval-Remove-1:before {
+  content: "\e956";
+}
+
+.sinoval-WeatherRainShowersNight:before {
+  content: "\ea56";
+}
+
+.sinoval-ArrowImport:before {
+  content: "\e642";
+}
+
+.sinoval-Calendar:before {
+  content: "\e757";
+}
+
+.sinoval-DataWaterfall-1:before {
+  content: "\e857";
+}
+
+.sinoval-ReadingMode-1:before {
+  content: "\e957";
+}
+
+.sinoval-Table:before {
+  content: "\ea57";
+}
+
+.sinoval-ArrowMinimize:before {
+  content: "\e643";
+}
+
+.sinoval-Clipboard-1:before {
+  content: "\e758";
+}
+
+.sinoval-Incognito:before {
+  content: "\e858";
+}
+
+.sinoval-FPS960:before {
+  content: "\e958";
+}
+
+.sinoval-TextFontSize:before {
+  content: "\ea58";
+}
+
+.sinoval-ArrowLeft:before {
+  content: "\e644";
+}
+
+.sinoval-ChannelFollow:before {
+  content: "\e759";
+}
+
+.sinoval-IncomingVideoOff:before {
+  content: "\e859";
+}
+
+.sinoval-ReadingMode:before {
+  content: "\e959";
+}
+
+.sinoval-Voicemail:before {
+  content: "\ea59";
+}
+
+.sinoval-ArrowMaximize:before {
+  content: "\e645";
+}
+
+.sinoval-CameraSwitch:before {
+  content: "\e75a";
+}
+
+.sinoval-IncomingVideo:before {
+  content: "\e85a";
+}
+
+.sinoval-Recommended:before {
+  content: "\e95a";
+}
+
+.sinoval-TestCall-1:before {
+  content: "\ea5a";
+}
+
+.sinoval-ArrowExport-1:before {
+  content: "\e646";
+}
+
+.sinoval-ChannelNotifications-1:before {
+  content: "\e75b";
+}
+
+.sinoval-Home:before {
+  content: "\e85b";
+}
+
+.sinoval-Recommended-1:before {
+  content: "\e95b";
+}
+
+.sinoval-WeatherPartlyCloudyNight-1:before {
+  content: "\ea5b";
+}
+
+.sinoval-ArrowEnter-1:before {
+  content: "\e647";
+}
+
+.sinoval-Camera-1:before {
+  content: "\e75c";
+}
+
+.sinoval-Info-1:before {
+  content: "\e85c";
+}
+
+.sinoval-RemoveRecent:before {
+  content: "\e95c";
+}
+
+.sinoval-TextAlignRight:before {
+  content: "\ea5c";
+}
+
+.sinoval-ArrowMinimize-1:before {
+  content: "\e648";
+}
+
+.sinoval-Clipboard:before {
+  content: "\e75d";
+}
+
+.sinoval-Info:before {
+  content: "\e85d";
+}
+
+.sinoval-RemoveRecent-1:before {
+  content: "\e95d";
+}
+
+.sinoval-Pause-1:before {
+  content: "\ea5d";
+}
+
+.sinoval-ArrowNext:before {
+  content: "\e649";
+}
+
+.sinoval-CommentResolve-1:before {
+  content: "\e75e";
+}
+
+.sinoval-Important:before {
+  content: "\e85e";
+}
+
+.sinoval-Rename:before {
+  content: "\e95e";
+}
+
+.sinoval-Tag-1:before {
+  content: "\ea5e";
+}
+
+.sinoval-ArrowDownLeft-1:before {
+  content: "\e64a";
+}
+
+.sinoval-CommentResolve:before {
+  content: "\e75f";
+}
+
+.sinoval-IncomingVideo-1:before {
+  content: "\e85f";
+}
+
+.sinoval-Reward:before {
+  content: "\e95f";
+}
+
+.sinoval-TextFirstLine:before {
+  content: "\ea5f";
+}
+
+.sinoval-ArrowPrevious:before {
+  content: "\e64b";
+}
+
+.sinoval-CommentPrevious-1:before {
+  content: "\e760";
+}
+
+.sinoval-InPrivateAccount-1:before {
+  content: "\e860";
+}
+
+.sinoval-Rename-1:before {
+  content: "\e960";
+}
+
+.sinoval-Teddy:before {
+  content: "\ea60";
+}
+
+.sinoval-ArrowRedo:before {
+  content: "\e64c";
+}
+
+.sinoval-CommentPrevious:before {
+  content: "\e761";
+}
+
+.sinoval-InkingTool:before {
+  content: "\e861";
+}
+
+.sinoval-Reward-1:before {
+  content: "\e961";
+}
+
+.sinoval-MailAllAccounts-1:before {
+  content: "\ea61";
+}
+
+.sinoval-ArrowRepeatAllOff:before {
+  content: "\e64d";
+}
+
+.sinoval-Comment-1:before {
+  content: "\e762";
+}
+
+.sinoval-Key:before {
+  content: "\e862";
+}
+
+.sinoval-Rewind-1:before {
+  content: "\e962";
+}
+
+.sinoval-VideoClip:before {
+  content: "\ea62";
+}
+
+.sinoval-ArrowPrevious-1:before {
+  content: "\e64e";
+}
+
+.sinoval-Comment:before {
+  content: "\e763";
+}
+
+.sinoval-InkingTool-1:before {
+  content: "\e863";
+}
+
+.sinoval-Router:before {
+  content: "\e963";
+}
+
+.sinoval-MagicWand:before {
+  content: "\ea63";
+}
+
+.sinoval-ArrowImport-1:before {
+  content: "\e64f";
+}
+
+.sinoval-Compose-1:before {
+  content: "\e764";
+}
+
+.sinoval-ImageLibrary-1:before {
+  content: "\e864";
+}
+
+.sinoval-ResizeVideo:before {
+  content: "\e964";
+}
+
+.sinoval-MatchAppLayout:before {
+  content: "\ea64";
+}
+
+.sinoval-ArrowRepeatAllOff-1:before {
+  content: "\e650";
+}
+
+.sinoval-Compose:before {
+  content: "\e765";
+}
+
+.sinoval-Key-1:before {
+  content: "\e865";
+}
+
+.sinoval-Router-1:before {
+  content: "\e965";
+}
+
+.sinoval-WeatherThunderstorm-1:before {
+  content: "\ea65";
+}
+
+.sinoval-ArrowMaximize-1:before {
+  content: "\e652";
+}
+
+.sinoval-ContactCard-1:before {
+  content: "\e766";
+}
+
+.sinoval-KeyboardDock-1:before {
+  content: "\e866";
+}
+
+.sinoval-ResizeImage:before {
+  content: "\e966";
+}
+
+.sinoval-Tablet-1:before {
+  content: "\ea66";
+}
+
+.sinoval-ArrowReply-1:before {
+  content: "\e653";
+}
+
+.sinoval-CheckboxUnchecked:before {
+  content: "\e767";
+}
+
+.sinoval-InPrivateAccount:before {
+  content: "\e867";
+}
+
+.sinoval-ResizeVideo-1:before {
+  content: "\e967";
+}
+
+.sinoval-TableSettings-1:before {
+  content: "\ea67";
+}
+
+.sinoval-ArrowRight-1:before {
+  content: "\e654";
+}
+
+.sinoval-CheckboxUnchecked-1:before {
+  content: "\e768";
+}
+
+.sinoval-iOSArrowLeft-1:before {
+  content: "\e868";
+}
+
+.sinoval-Safe:before {
+  content: "\e968";
+}
+
+.sinoval-TextAlignCenter:before {
+  content: "\ea68";
+}
+
+.sinoval-AppFolder:before {
+  content: "\e655";
+}
+
+.sinoval-Contacts:before {
+  content: "\e769";
+}
+
+.sinoval-KeyboardLayoutOneHandedLeft-1:before {
+  content: "\e869";
+}
+
+.sinoval-SaveCopy-1:before {
+  content: "\e969";
+}
+
+.sinoval-Teddy-1:before {
+  content: "\ea69";
+}
+
+.sinoval-ArrowRight:before {
+  content: "\e656";
+}
+
+.sinoval-CheckmarkCircle:before {
+  content: "\e76a";
+}
+
+.sinoval-KeyboardLayoutFloat:before {
+  content: "\e86a";
+}
+
+.sinoval-SaveCopy:before {
+  content: "\e96a";
+}
+
+.sinoval-TestCall:before {
+  content: "\ea6a";
+}
+
+.sinoval-ArrowRightCircle:before {
+  content: "\e657";
+}
+
+.sinoval-Contacts-1:before {
+  content: "\e76b";
+}
+
+.sinoval-KeyboardLayoutFloat-1:before {
+  content: "\e86b";
+}
+
+.sinoval-Safe-1:before {
+  content: "\e96b";
+}
+
+.sinoval-TableSettings:before {
+  content: "\ea6b";
+}
+
+.sinoval-ArrowNext-1:before {
+  content: "\e658";
+}
+
+.sinoval-Document:before {
+  content: "\e76c";
+}
+
+.sinoval-KeyboardLayoutResize-1:before {
+  content: "\e86c";
+}
+
+.sinoval-Save:before {
+  content: "\e96c";
+}
+
+.sinoval-TapDouble:before {
+  content: "\ea6c";
+}
+
+.sinoval-ArrowSort:before {
+  content: "\e659";
+}
+
+.sinoval-CheckmarkSquare-1:before {
+  content: "\e76d";
+}
+
+.sinoval-KeyboardLayoutSplit:before {
+  content: "\e86d";
+}
+
+.sinoval-SaveAs:before {
+  content: "\e96d";
+}
+
+.sinoval-TeamDelete-1:before {
+  content: "\ea6d";
+}
+
+.sinoval-ArrowReplyAll-1:before {
+  content: "\e65a";
+}
+
+.sinoval-CheckmarkSquare:before {
+  content: "\e76e";
+}
+
+.sinoval-KeyboardLayoutSplit-1:before {
+  content: "\e86e";
+}
+
+.sinoval-Glance:before {
+  content: "\e96e";
+}
+
+.sinoval-Warning-1:before {
+  content: "\ea6e";
+}
+
+.sinoval-ArrowRightCircle-1:before {
+  content: "\e65b";
+}
+
+.sinoval-ConvertToTable-1:before {
+  content: "\e76f";
+}
+
+.sinoval-KeyboardShiftUppercase-1:before {
+  content: "\e86f";
+}
+
+.sinoval-SaveAs-1:before {
+  content: "\e96f";
+}
+
+.sinoval-TeamDelete:before {
+  content: "\ea6f";
+}
+
+.sinoval-ArrowReply:before {
+  content: "\e65e";
+}
+
+.sinoval-ConvertToTable:before {
+  content: "\e770";
+}
+
+.sinoval-KeyboardLayoutResize:before {
+  content: "\e870";
+}
+
+.sinoval-Scan-1:before {
+  content: "\e970";
+}
+
+.sinoval-Tag:before {
+  content: "\ea70";
+}
+
+.sinoval-ArrowSwap-1:before {
+  content: "\e65f";
+}
+
+.sinoval-Cookies-1:before {
+  content: "\e771";
+}
+
+.sinoval-DeviceEQ:before {
+  content: "\e871";
+}
+
+.sinoval-Screenshot:before {
+  content: "\e971";
+}
+
+.sinoval-Table-1:before {
+  content: "\ea71";
+}
+
+.sinoval-ArrowReplyAll:before {
+  content: "\e660";
+}
+
+.sinoval-ConvertToText-1:before {
+  content: "\e772";
+}
+
+.sinoval-KeyboardTab-1:before {
+  content: "\e872";
+}
+
+.sinoval-Grid-1:before {
+  content: "\e972";
+}
+
+.sinoval-WeatherPartlyCloudyDay-1:before {
+  content: "\ea72";
+}
+
+.sinoval-ArrowSort-1:before {
+  content: "\e663";
+}
+
+.sinoval-Cookies:before {
+  content: "\e773";
+}
+
+.sinoval-DeviceEQ-1:before {
+  content: "\e873";
+}
+
+.sinoval-SearchSquare-1:before {
+  content: "\e973";
+}
+
+.sinoval-TextAlignRight-1:before {
+  content: "\ea73";
+}
+
+.sinoval-ArrowTrending-1:before {
+  content: "\e664";
+}
+
+.sinoval-CopyImage-1:before {
+  content: "\e774";
+}
+
+.sinoval-KeyboardShift:before {
+  content: "\e874";
+}
+
+.sinoval-Screenshot-1:before {
+  content: "\e974";
+}
+
+.sinoval-PeopleTeam-1:before {
+  content: "\ea74";
+}
+
+.sinoval-ArrowSync:before {
+  content: "\e667";
+}
+
+.sinoval-CopyImage:before {
+  content: "\e775";
+}
+
+.sinoval-KeyboardShiftUppercase:before {
+  content: "\e875";
+}
+
+.sinoval-Scratchpad:before {
+  content: "\e975";
+}
+
+.sinoval-TextBulletListSquare-1:before {
+  content: "\ea75";
+}
+
+.sinoval-ArrowSync-1:before {
+  content: "\e668";
+}
+
+.sinoval-CopyLink-1:before {
+  content: "\e776";
+}
+
+.sinoval-DialpadOff-1:before {
+  content: "\e876";
+}
+
+.sinoval-Scratchpad-1:before {
+  content: "\e976";
+}
+
+.sinoval-TextBold:before {
+  content: "\ea76";
+}
+
+.sinoval-ArrowUndo:before {
+  content: "\e669";
+}
+
+.sinoval-Copy-1:before {
+  content: "\e777";
+}
+
+.sinoval-KeyboardShift-1:before {
+  content: "\e877";
+}
+
+.sinoval-Scan:before {
+  content: "\e977";
+}
+
+.sinoval-PersonVoice-1:before {
+  content: "\ea77";
+}
+
+.sinoval-ArrowSwap:before {
+  content: "\e66a";
+}
+
+.sinoval-CopyLink:before {
+  content: "\e778";
+}
+
+.sinoval-Laptop-1:before {
+  content: "\e878";
+}
+
+.sinoval-SelectAllOff-1:before {
+  content: "\e978";
+}
+
+.sinoval-VideoOff:before {
+  content: "\ea78";
+}
+
+.sinoval-ArrowTrending:before {
+  content: "\e66b";
+}
+
+.sinoval-Copy:before {
+  content: "\e779";
+}
+
+.sinoval-Keyboard-1:before {
+  content: "\e879";
+}
+
+.sinoval-SearchSquare:before {
+  content: "\e979";
+}
+
+.sinoval-Tabs-1:before {
+  content: "\ea79";
+}
+
+.sinoval-ArrowSyncCircle:before {
+  content: "\e66c";
+}
+
+.sinoval-CopyMove:before {
+  content: "\e77a";
+}
+
+.sinoval-SwipeRight:before {
+  content: "\e87a";
+}
+
+.sinoval-Search:before {
+  content: "\e97a";
+}
+
+.sinoval-Target:before {
+  content: "\ea7a";
+}
+
+.sinoval-ArrowUndo-1:before {
+  content: "\e66d";
+}
+
+.sinoval-CropInterimOff-1:before {
+  content: "\e77b";
+}
+
+.sinoval-Keyboard:before {
+  content: "\e87b";
+}
+
+.sinoval-Search-1:before {
+  content: "\e97b";
+}
+
+.sinoval-TextAlignDistributed-1:before {
+  content: "\ea7b";
+}
+
+.sinoval-ArrowRedo-1:before {
+  content: "\e66e";
+}
+
+.sinoval-CropInterim-1:before {
+  content: "\e77c";
+}
+
+.sinoval-Laptop:before {
+  content: "\e87c";
+}
+
+.sinoval-SendLogging-1:before {
+  content: "\e97c";
+}
+
+.sinoval-SwitchVideo-1:before {
+  content: "\ea7c";
+}
+
+.sinoval-ArrowUpLeft:before {
+  content: "\e670";
+}
+
+.sinoval-CropInterimOff:before {
+  content: "\e77d";
+}
+
+.sinoval-Directions:before {
+  content: "\e87d";
+}
+
+.sinoval-SelectAll-1:before {
+  content: "\e97d";
+}
+
+.sinoval-TextItalic-1:before {
+  content: "\ea7d";
+}
+
+.sinoval-ArrowUp:before {
+  content: "\e671";
+}
+
+.sinoval-Crop-1:before {
+  content: "\e77e";
+}
+
+.sinoval-Layer-1:before {
+  content: "\e87e";
+}
+
+.sinoval-SelectAll:before {
+  content: "\e97e";
+}
+
+.sinoval-WeatherSnow:before {
+  content: "\ea7e";
+}
+
+.sinoval-ArrowSyncCircle-1:before {
+  content: "\e672";
+}
+
+.sinoval-Crop:before {
+  content: "\e77f";
+}
+
+.sinoval-Library-1:before {
+  content: "\e87f";
+}
+
+.sinoval-SendCopy-1:before {
+  content: "\e97f";
+}
+
+.sinoval-TextIndentIncrease:before {
+  content: "\ea7f";
+}
+
+.sinoval-ArrowUp-1:before {
+  content: "\e673";
+}
+
+.sinoval-Currency-1:before {
+  content: "\e780";
+}
+
+.sinoval-LauncherSettings-1:before {
+  content: "\e880";
+}
+
+.sinoval-SendCopy:before {
+  content: "\e980";
+}
+
+.sinoval-TextStrikethrough:before {
+  content: "\ea80";
+}
+
+.sinoval-ArrowUpRight:before {
+  content: "\e674";
+}
+
+.sinoval-DataArea:before {
+  content: "\e781";
+}
+
+.sinoval-Lasso:before {
+  content: "\e881";
+}
+
+.sinoval-SettingsDev-1:before {
+  content: "\e981";
+}
+
+.sinoval-WeatherSqualls-1:before {
+  content: "\ea81";
+}
+
+.sinoval-ArrowUpload:before {
+  content: "\e675";
+}
+
+.sinoval-DarkTheme-1:before {
+  content: "\e782";
+}
+
+.sinoval-Layer:before {
+  content: "\e882";
+}
+
+.sinoval-Send:before {
+  content: "\e982";
+}
+
+.sinoval-TextLineSpacing:before {
+  content: "\ea82";
+}
+
+.sinoval-ArrowUpRight-1:before {
+  content: "\e677";
+}
+
+.sinoval-DarkTheme:before {
+  content: "\e783";
+}
+
+.sinoval-List-1:before {
+  content: "\e883";
+}
+
+.sinoval-SettingsDev:before {
+  content: "\e983";
+}
+
+.sinoval-TextNumberListLTR:before {
+  content: "\ea83";
+}
+
+.sinoval-ArrowsBidirectional:before {
+  content: "\e678";
+}
+
+.sinoval-CropInterim:before {
+  content: "\e784";
+}
+
+.sinoval-DividerShort:before {
+  content: "\e884";
+}
+
+.sinoval-SendLogging:before {
+  content: "\e984";
+}
+
+.sinoval-Text:before {
+  content: "\ea84";
+}
+
+.sinoval-ArrowUpload-1:before {
+  content: "\e679";
+}
+
+.sinoval-DataBarHorizontal:before {
+  content: "\e785";
+}
+
+.sinoval-Lightbulb-1:before {
+  content: "\e885";
+}
+
+.sinoval-SettingMic-1:before {
+  content: "\e985";
+}
+
+.sinoval-TextAlignLeft:before {
+  content: "\ea85";
+}
+
+.sinoval-ArrowsBidirectional-1:before {
+  content: "\e67a";
+}
+
+.sinoval-DataBarVertical-1:before {
+  content: "\e786";
+}
+
+.sinoval-LightbulbCircle-1:before {
+  content: "\e886";
+}
+
+.sinoval-SettingMic:before {
+  content: "\e986";
+}
+
+.sinoval-TimeAndWeather-1:before {
+  content: "\ea86";
+}
+
+.sinoval-Assignments-1:before {
+  content: "\e67b";
+}
+
+.sinoval-DataBarHorizontal-1:before {
+  content: "\e787";
+}
+
+.sinoval-Lasso-1:before {
+  content: "\e887";
+}
+
+.sinoval-Send-1:before {
+  content: "\e987";
+}
+
+.sinoval-TableDelete-1:before {
+  content: "\ea87";
+}
+
+.sinoval-AttachWithText:before {
+  content: "\e67c";
+}
+
+.sinoval-Currency:before {
+  content: "\e788";
+}
+
+.sinoval-List:before {
+  content: "\e888";
+}
+
+.sinoval-ShareAndroid-1:before {
+  content: "\e988";
+}
+
+.sinoval-Unsave-1:before {
+  content: "\ea88";
+}
+
+.sinoval-ArrowUpLeft-1:before {
+  content: "\e67d";
+}
+
+.sinoval-DataFunnel-1:before {
+  content: "\e789";
+}
+
+.sinoval-Library:before {
+  content: "\e889";
+}
+
+.sinoval-ShareDesktop:before {
+  content: "\e989";
+}
+
+.sinoval-TimePicker:before {
+  content: "\ea89";
+}
+
+.sinoval-Attach:before {
+  content: "\e67e";
+}
+
+.sinoval-DataFunnel:before {
+  content: "\e78a";
+}
+
+.sinoval-Lightbulb:before {
+  content: "\e88a";
+}
+
+.sinoval-ShareCloseTray:before {
+  content: "\e98a";
+}
+
+.sinoval-TimerOff:before {
+  content: "\ea8a";
+}
+
+.sinoval-Autocorrect:before {
+  content: "\e67f";
+}
+
+.sinoval-DataHistogram-1:before {
+  content: "\e78b";
+}
+
+.sinoval-Link:before {
+  content: "\e88b";
+}
+
+.sinoval-Shapes-1:before {
+  content: "\e98b";
+}
+
+.sinoval-Translate:before {
+  content: "\ea8b";
+}
+
+.sinoval-Autocorrect-1:before {
+  content: "\e680";
+}
+
+.sinoval-Cloud-1:before {
+  content: "\e78c";
+}
+
+.sinoval-LightbulbCircle:before {
+  content: "\e88c";
+}
+
+.sinoval-ShareAndroid:before {
+  content: "\e98c";
+}
+
+.sinoval-TableAdd:before {
+  content: "\ea8c";
+}
+
+.sinoval-Attach-1:before {
+  content: "\e681";
+}
+
+.sinoval-Code:before {
+  content: "\e78d";
+}
+
+.sinoval-LocalLanguage-1:before {
+  content: "\e88d";
+}
+
+.sinoval-ShareiOS-1:before {
+  content: "\e98d";
+}
+
+.sinoval-WeatherHailNight:before {
+  content: "\ea8d";
+}
+
+.sinoval-AttachWithText-1:before {
+  content: "\e682";
+}
+
+.sinoval-Cloud:before {
+  content: "\e78e";
+}
+
+.sinoval-Live-1:before {
+  content: "\e88e";
+}
+
+.sinoval-ShareDesktop-1:before {
+  content: "\e98e";
+}
+
+.sinoval-ThumbLike:before {
+  content: "\ea8e";
+}
+
+.sinoval-BackgroundEffect-1:before {
+  content: "\e683";
+}
+
+.sinoval-DataLine-1:before {
+  content: "\e78f";
+}
+
+.sinoval-Location:before {
+  content: "\e88f";
+}
+
+.sinoval-ShareStop:before {
+  content: "\e98f";
+}
+
+.sinoval-UninstallApp-1:before {
+  content: "\ea8f";
+}
+
+.sinoval-BackgroundEffect:before {
+  content: "\e684";
+}
+
+.sinoval-Code-1:before {
+  content: "\e790";
+}
+
+.sinoval-LocationNotFound-1:before {
+  content: "\e890";
+}
+
+.sinoval-ShareStop-1:before {
+  content: "\e990";
+}
+
+.sinoval-USBPort-1:before {
+  content: "\ea90";
+}
+
+.sinoval-Battery1:before {
+  content: "\e685";
+}
+
+.sinoval-CloudSyncComplete:before {
+  content: "\e791";
+}
+
+.sinoval-DockRow:before {
+  content: "\e891";
+}
+
+.sinoval-ShareiOS:before {
+  content: "\e991";
+}
+
+.sinoval-Timer10-1:before {
+  content: "\ea91";
+}
+
+.sinoval-Backspace-1:before {
+  content: "\e686";
+}
+
+.sinoval-ClipboardText-1:before {
+  content: "\e792";
+}
+
+.sinoval-LocalLanguage:before {
+  content: "\e892";
+}
+
+.sinoval-Share-1:before {
+  content: "\e992";
+}
+
+.sinoval-TableDelete:before {
+  content: "\ea92";
+}
+
+.sinoval-Battery0:before {
+  content: "\e687";
+}
+
+.sinoval-ClearFormatting-1:before {
+  content: "\e793";
+}
+
+.sinoval-Lock-1:before {
+  content: "\e893";
+}
+
+.sinoval-ShareScreen:before {
+  content: "\e993";
+}
+
+.sinoval-None:before {
+  content: "\ea93";
+}
+
+.sinoval-Battery2-1:before {
+  content: "\e688";
+}
+
+.sinoval-ClearFormatting:before {
+  content: "\e794";
+}
+
+.sinoval-MailAdd-1:before {
+  content: "\e894";
+}
+
+.sinoval-Share:before {
+  content: "\e994";
+}
+
+.sinoval-Timeline:before {
+  content: "\ea94";
+}
+
+.sinoval-Battery2:before {
+  content: "\e689";
+}
+
+.sinoval-Classification:before {
+  content: "\e795";
+}
+
+.sinoval-TeamAdd-1:before {
+  content: "\e895";
+}
+
+.sinoval-HideSlide-1:before {
+  content: "\e995";
+}
+
+.sinoval-TimerOff-1:before {
+  content: "\ea95";
+}
+
+.sinoval-Assignments:before {
+  content: "\e68a";
+}
+
+.sinoval-Color-1:before {
+  content: "\e796";
+}
+
+.sinoval-LockShield-1:before {
+  content: "\e896";
+}
+
+.sinoval-Shield:before {
+  content: "\e996";
+}
+
+.sinoval-VideoPlayPause:before {
+  content: "\ea96";
+}
+
+.sinoval-Battery6-1:before {
+  content: "\e68b";
+}
+
+.sinoval-HDR-1:before {
+  content: "\e797";
+}
+
+.sinoval-MagicWand-1:before {
+  content: "\e897";
+}
+
+.sinoval-HomeAdd:before {
+  content: "\e997";
+}
+
+.sinoval-LockShield:before {
+  content: "\ea97";
+}
+
+.sinoval-Battery4-1:before {
+  content: "\e68c";
+}
+
+.sinoval-Collections-1:before {
+  content: "\e798";
+}
+
+.sinoval-LocationNotFound:before {
+  content: "\e898";
+}
+
+.sinoval-ShiftsPending-1:before {
+  content: "\e998";
+}
+
+.sinoval-ViewDesktop:before {
+  content: "\ea98";
+}
+
+.sinoval-Badge-1:before {
+  content: "\e68d";
+}
+
+.sinoval-CommentAdd:before {
+  content: "\e799";
+}
+
+.sinoval-MailAllAccounts:before {
+  content: "\e899";
+}
+
+.sinoval-Shifts:before {
+  content: "\e999";
+}
+
+.sinoval-Timer2:before {
+  content: "\ea99";
+}
+
+.sinoval-Badge:before {
+  content: "\e68e";
+}
+
+.sinoval-DataPie-1:before {
+  content: "\e79a";
+}
+
+.sinoval-MailAll-1:before {
+  content: "\e89a";
+}
+
+.sinoval-SignOut-1:before {
+  content: "\e99a";
+}
+
+.sinoval-ViewDesktopMobile-1:before {
+  content: "\ea9a";
+}
+
+.sinoval-Battery6:before {
+  content: "\e68f";
+}
+
+.sinoval-CommentAdd-1:before {
+  content: "\e79b";
+}
+
+.sinoval-MailAll:before {
+  content: "\e89b";
+}
+
+.sinoval-SignOut:before {
+  content: "\e99b";
+}
+
+.sinoval-Timer2-1:before {
+  content: "\ea9b";
+}
+
+.sinoval-Battery5:before {
+  content: "\e692";
+}
+
+.sinoval-DataLine:before {
+  content: "\e79c";
+}
+
+.sinoval-MailRead-1:before {
+  content: "\e89c";
+}
+
+.sinoval-ShiftsPending:before {
+  content: "\e99c";
+}
+
+.sinoval-TextBulletList:before {
+  content: "\ea9c";
+}
+
+.sinoval-Battery3-1:before {
+  content: "\e693";
+}
+
+.sinoval-Color:before {
+  content: "\e79d";
+}
+
+.sinoval-Lock:before {
+  content: "\e89d";
+}
+
+.sinoval-Signature-1:before {
+  content: "\e99d";
+}
+
+.sinoval-Timer-1:before {
+  content: "\ea9d";
+}
+
+.sinoval-Battery0-1:before {
+  content: "\e694";
+}
+
+.sinoval-DataTreemap-1:before {
+  content: "\e79e";
+}
+
+.sinoval-MailOutbox:before {
+  content: "\e89e";
+}
+
+.sinoval-Hub-1:before {
+  content: "\e99e";
+}
+
+.sinoval-TextAdd-1:before {
+  content: "\ea9e";
+}
+
+.sinoval-Battery1-1:before {
+  content: "\e695";
+}
+
+.sinoval-DataScatter-1:before {
+  content: "\e79f";
+}
+
+.sinoval-MailMoveToFocussed-1:before {
+  content: "\e89f";
+}
+
+.sinoval-SiteBlocked:before {
+  content: "\e99f";
+}
+
+.sinoval-TimePicker-1:before {
+  content: "\ea9f";
+}
+
+.sinoval-Battery5-1:before {
+  content: "\e696";
+}
+
+.sinoval-DataSunburst-1:before {
+  content: "\e7a0";
+}
+
+.sinoval-MailAdd:before {
+  content: "\e8a0";
+}
+
+.sinoval-Signature:before {
+  content: "\e9a0";
+}
+
+.sinoval-Timer10:before {
+  content: "\eaa0";
+}
+
+.sinoval-Battery7:before {
+  content: "\e697";
+}
+
+.sinoval-DataWaterfall:before {
+  content: "\e7a1";
+}
+
+.sinoval-MailOutbox-1:before {
+  content: "\e8a1";
+}
+
+.sinoval-Signed:before {
+  content: "\e9a1";
+}
+
+.sinoval-TopSpeed-1:before {
+  content: "\eaa1";
+}
+
+.sinoval-Battery3:before {
+  content: "\e698";
+}
+
+.sinoval-DataWhisker-1:before {
+  content: "\e7a2";
+}
+
+.sinoval-MailMoveToFocussed:before {
+  content: "\e8a2";
+}
+
+.sinoval-SiteWarning-1:before {
+  content: "\e9a2";
+}
+
+.sinoval-WeatherSqualls:before {
+  content: "\eaa2";
+}
+
+.sinoval-Battery4:before {
+  content: "\e699";
+}
+
+.sinoval-DataWhisker:before {
+  content: "\e7a3";
+}
+
+.sinoval-MailUnread-1:before {
+  content: "\e8a3";
+}
+
+.sinoval-SlideAdd-1:before {
+  content: "\e9a3";
+}
+
+.sinoval-TextColor-1:before {
+  content: "\eaa3";
+}
+
+.sinoval-Battery9:before {
+  content: "\e69a";
+}
+
+.sinoval-DataUsage-1:before {
+  content: "\e7a4";
+}
+
+.sinoval-MalwareDetected:before {
+  content: "\e8a4";
+}
+
+.sinoval-Sleep:before {
+  content: "\e9a4";
+}
+
+.sinoval-TextNumberListRTL-1:before {
+  content: "\eaa4";
+}
+
+.sinoval-BatteryFull-1:before {
+  content: "\e69b";
+}
+
+.sinoval-DataUsage:before {
+  content: "\e7a5";
+}
+
+.sinoval-MailUnsubscribe:before {
+  content: "\e8a5";
+}
+
+.sinoval-SiteWarning:before {
+  content: "\e9a5";
+}
+
+.sinoval-WeatherBlowingSnow-1:before {
+  content: "\eaa5";
+}
+
+.sinoval-Battery7-1:before {
+  content: "\e69c";
+}
+
+.sinoval-DeleteForever-1:before {
+  content: "\e7a6";
+}
+
+.sinoval-MailInbox:before {
+  content: "\e8a6";
+}
+
+.sinoval-SlowMode:before {
+  content: "\e9a6";
+}
+
+.sinoval-Mail-1:before {
+  content: "\eaa6";
+}
+
+.sinoval-Battery8:before {
+  content: "\e69d";
+}
+
+.sinoval-DeleteForever:before {
+  content: "\e7a7";
+}
+
+.sinoval-MailRead:before {
+  content: "\e8a7";
+}
+
+.sinoval-SlowMode-1:before {
+  content: "\e9a7";
+}
+
+.sinoval-TextUnderline:before {
+  content: "\eaa7";
+}
+
+.sinoval-Backspace:before {
+  content: "\e69e";
+}
+
+.sinoval-CameraSwitch-1:before {
+  content: "\e7a8";
+}
+
+.sinoval-TextBulletList-1:before {
+  content: "\e8a8";
+}
+
+.sinoval-Snooze-1:before {
+  content: "\e9a8";
+}
+
+.sinoval-WeatherHailDay-1:before {
+  content: "\eaa8";
+}
+
+.sinoval-Battery9-1:before {
+  content: "\e69f";
+}
+
+.sinoval-Delete-1:before {
+  content: "\e7a9";
+}
+
+.sinoval-MailUnread:before {
+  content: "\e8a9";
+}
+
+.sinoval-Image:before {
+  content: "\e9a9";
+}
+
+.sinoval-SpeakerBluetooth-1:before {
+  content: "\eaa9";
+}
+
+.sinoval-BatteryCharge-1:before {
+  content: "\e6a0";
+}
+
+.sinoval-Desktop-1:before {
+  content: "\e7aa";
+}
+
+.sinoval-Manufacturer-1:before {
+  content: "\e8aa";
+}
+
+.sinoval-Spacebar-1:before {
+  content: "\e9aa";
+}
+
+.sinoval-TextStrikethrough-1:before {
+  content: "\eaaa";
+}
+
+.sinoval-BatteryFull:before {
+  content: "\e6a1";
+}
+
+.sinoval-DeleteOff:before {
+  content: "\e7ab";
+}
+
+.sinoval-MalwareDetected-1:before {
+  content: "\e8ab";
+}
+
+.sinoval-Speaker1-1:before {
+  content: "\e9ab";
+}
+
+.sinoval-Notepad-1:before {
+  content: "\eaab";
+}
+
+.sinoval-BatterySaver-1:before {
+  content: "\e6a2";
+}
+
+.sinoval-DeveloperBoard-1:before {
+  content: "\e7ac";
+}
+
+.sinoval-MatchAppLayout-1:before {
+  content: "\e8ac";
+}
+
+.sinoval-Speaker0:before {
+  content: "\e9ac";
+}
+
+.sinoval-Timeline-1:before {
+  content: "\eaac";
+}
+
+.sinoval-Battery8-1:before {
+  content: "\e6a3";
+}
+
+.sinoval-DeleteOff-1:before {
+  content: "\e7ad";
+}
+
+.sinoval-Map:before {
+  content: "\e8ad";
+}
+
+.sinoval-Spacebar:before {
+  content: "\e9ad";
+}
+
+.sinoval-Tab:before {
+  content: "\eaad";
+}
+
+.sinoval-BatteryCharge:before {
+  content: "\e6a4";
+}
+
+.sinoval-Delete:before {
+  content: "\e7ae";
+}
+
+.sinoval-MarkUnread-1:before {
+  content: "\e8ae";
+}
+
+.sinoval-Speaker0-1:before {
+  content: "\e9ae";
+}
+
+.sinoval-None-1:before {
+  content: "\eaae";
+}
+
+.sinoval-Bed-1:before {
+  content: "\e6a5";
+}
+
+.sinoval-Dialpad:before {
+  content: "\e7af";
+}
+
+.sinoval-MarkRead:before {
+  content: "\e8af";
+}
+
+.sinoval-SpeakerBluetooth:before {
+  content: "\e9af";
+}
+
+.sinoval-Ticket-1:before {
+  content: "\eaaf";
+}
+
+.sinoval-Block-1:before {
+  content: "\e6a6";
+}
+
+.sinoval-Dialpad-1:before {
+  content: "\e7b0";
+}
+
+.sinoval-Manufacturer:before {
+  content: "\e8b0";
+}
+
+.sinoval-Snooze:before {
+  content: "\e9b0";
+}
+
+.sinoval-Notebook:before {
+  content: "\eab0";
+}
+
+.sinoval-Block:before {
+  content: "\e6a7";
+}
+
+.sinoval-DialpadOff:before {
+  content: "\e7b1";
+}
+
+.sinoval-MeetNow-1:before {
+  content: "\e8b1";
+}
+
+.sinoval-SpeakerNone:before {
+  content: "\e9b1";
+}
+
+.sinoval-TapSingle:before {
+  content: "\eab1";
+}
+
+.sinoval-Bed:before {
+  content: "\e6a8";
+}
+
+.sinoval-Directions-1:before {
+  content: "\e7b2";
+}
+
+.sinoval-MegaphoneOff:before {
+  content: "\e8b2";
+}
+
+.sinoval-SoundSource-1:before {
+  content: "\e9b2";
+}
+
+.sinoval-Trophy:before {
+  content: "\eab2";
+}
+
+.sinoval-BatteryWarning:before {
+  content: "\e6a9";
+}
+
+.sinoval-Dismiss:before {
+  content: "\e7b3";
+}
+
+.sinoval-ConferenceRoom-1:before {
+  content: "\e8b3";
+}
+
+.sinoval-SpeakerNone-1:before {
+  content: "\e9b3";
+}
+
+.sinoval-Timer:before {
+  content: "\eab3";
+}
+
+.sinoval-BatterySaver:before {
+  content: "\e6aa";
+}
+
+.sinoval-DividerTall-1:before {
+  content: "\e7b4";
+}
+
+.sinoval-MailUnsubscribe-1:before {
+  content: "\e8b4";
+}
+
+.sinoval-SpeakerOff-1:before {
+  content: "\e9b4";
+}
+
+.sinoval-Unlock:before {
+  content: "\eab4";
+}
+
+.sinoval-BluetoothConnected-1:before {
+  content: "\e6ab";
+}
+
+.sinoval-DismissCircle:before {
+  content: "\e7b5";
+}
+
+.sinoval-Mention-1:before {
+  content: "\e8b5";
+}
+
+.sinoval-SpeakerOff:before {
+  content: "\e9b5";
+}
+
+.sinoval-TripleColumn:before {
+  content: "\eab5";
+}
+
+.sinoval-BluetoothConnected:before {
+  content: "\e6ac";
+}
+
+.sinoval-Dismiss-1:before {
+  content: "\e7b6";
+}
+
+.sinoval-Map-1:before {
+  content: "\e8b6";
+}
+
+.sinoval-IncomingVideoOff-1:before {
+  content: "\e9b6";
+}
+
+.sinoval-Upgrade:before {
+  content: "\eab6";
+}
+
+.sinoval-Bluetooth:before {
+  content: "\e6ad";
+}
+
+.sinoval-DividerShort-1:before {
+  content: "\e7b7";
+}
+
+.sinoval-Connector:before {
+  content: "\e8b7";
+}
+
+.sinoval-StarAdd-1:before {
+  content: "\e9b7";
+}
+
+.sinoval-Upgrade-1:before {
+  content: "\eab7";
+}
+
+.sinoval-BookFormulaCompatibility:before {
+  content: "\e6ae";
+}
+
+.sinoval-DismissCircle-1:before {
+  content: "\e7b8";
+}
+
+.sinoval-Mention:before {
+  content: "\e8b8";
+}
+
+.sinoval-SpeakerSettings:before {
+  content: "\e9b8";
+}
+
+.sinoval-VideoSecurity:before {
+  content: "\eab8";
+}
+
+.sinoval-Board-1:before {
+  content: "\e6af";
+}
+
+.sinoval-Link-1:before {
+  content: "\e7b9";
+}
+
+.sinoval-MeetNow:before {
+  content: "\e8b9";
+}
+
+.sinoval-Speaker-1:before {
+  content: "\e9b9";
+}
+
+.sinoval-Unsave:before {
+  content: "\eab9";
+}
+
+.sinoval-BluetoothDisabled:before {
+  content: "\e6b0";
+}
+
+.sinoval-DockLeft-1:before {
+  content: "\e7ba";
+}
+
+.sinoval-MicOn-1:before {
+  content: "\e8ba";
+}
+
+.sinoval-StarOff-1:before {
+  content: "\e9ba";
+}
+
+.sinoval-WeatherMoon-1:before {
+  content: "\eaba";
+}
+
+.sinoval-BluetoothDisabled-1:before {
+  content: "\e6b1";
+}
+
+.sinoval-DividerTall:before {
+  content: "\e7bb";
+}
+
+.sinoval-Megaphone:before {
+  content: "\e8bb";
+}
+
+.sinoval-iOSArrowLeft:before {
+  content: "\e9bb";
+}
+
+.sinoval-Owner-1:before {
+  content: "\eabb";
+}
+
+.sinoval-Bluetooth-1:before {
+  content: "\e6b2";
+}
+
+.sinoval-DockLeft:before {
+  content: "\e7bc";
+}
+
+.sinoval-MicOn:before {
+  content: "\e8bc";
+}
+
+.sinoval-Star:before {
+  content: "\e9bc";
+}
+
+.sinoval-Thinking:before {
+  content: "\eabc";
+}
+
+.sinoval-BookFormulaCompatibility-1:before {
+  content: "\e6b3";
+}
+
+.sinoval-Dock-1:before {
+  content: "\e7bd";
+}
+
+.sinoval-MissingMetadata-1:before {
+  content: "\e8bd";
+}
+
+.sinoval-StarOff:before {
+  content: "\e9bd";
+}
+
+.sinoval-TextAlignCenter-1:before {
+  content: "\eabd";
+}
+
+.sinoval-BluetoothSearching-1:before {
+  content: "\e6b4";
+}
+
+.sinoval-Connector-1:before {
+  content: "\e7be";
+}
+
+.sinoval-MissingMetadata:before {
+  content: "\e8be";
+}
+
+.sinoval-Status-1:before {
+  content: "\e9be";
+}
+
+.sinoval-PhoneAddNewApp-1:before {
+  content: "\eabe";
+}
+
+.sinoval-BluetoothSearching:before {
+  content: "\e6b5";
+}
+
+.sinoval-ConferenceRoom:before {
+  content: "\e7bf";
+}
+
+.sinoval-MegaphoneOff-1:before {
+  content: "\e8bf";
+}
+
+.sinoval-Status:before {
+  content: "\e9bf";
+}
+
+.sinoval-Tabs:before {
+  content: "\eabf";
+}
+
+.sinoval-Board:before {
+  content: "\e6b6";
+}
+
+.sinoval-Dock:before {
+  content: "\e7c0";
+}
+
+.sinoval-Megaphone-1:before {
+  content: "\e8c0";
+}
+
+.sinoval-StickerAdd:before {
+  content: "\e9c0";
+}
+
+.sinoval-NotebookSync:before {
+  content: "\eac0";
+}
+
+.sinoval-BookFormulaDatabase-1:before {
+  content: "\e6b7";
+}
+
+.sinoval-DocumentAutosave-1:before {
+  content: "\e7c1";
+}
+
+.sinoval-MicOff:before {
+  content: "\e8c1";
+}
+
+.sinoval-Sticker:before {
+  content: "\e9c1";
+}
+
+.sinoval-Wallpaper:before {
+  content: "\eac1";
+}
+
+.sinoval-BookFormulaDate:before {
+  content: "\e6b8";
+}
+
+.sinoval-DocumentAutosave:before {
+  content: "\e7c2";
+}
+
+.sinoval-Midi-1:before {
+  content: "\e8c2";
+}
+
+.sinoval-Storage-1:before {
+  content: "\e9c2";
+}
+
+.sinoval-TableEdit-1:before {
+  content: "\eac2";
+}
+
+.sinoval-BookFormulaDate-1:before {
+  content: "\e6bb";
+}
+
+.sinoval-ContactCardGroup-1:before {
+  content: "\e7c3";
+}
+
+.sinoval-MarkUnread:before {
+  content: "\e8c3";
+}
+
+.sinoval-StarAdd:before {
+  content: "\e9c3";
+}
+
+.sinoval-Warning:before {
+  content: "\eac3";
+}
+
+.sinoval-BookFormulaDatabase:before {
+  content: "\e6bc";
+}
+
+.sinoval-DocumentCatchUp:before {
+  content: "\e7c4";
+}
+
+.sinoval-More:before {
+  content: "\e8c4";
+}
+
+.sinoval-Sticker-1:before {
+  content: "\e9c4";
+}
+
+.sinoval-PersonAdd:before {
+  content: "\eac4";
+}
+
+.sinoval-BookFormulaFinancial-1:before {
+  content: "\e6bd";
+}
+
+.sinoval-DocumentDiscard-1:before {
+  content: "\e7c5";
+}
+
+.sinoval-DocumentDiscard:before {
+  content: "\e8c5";
+}
+
+.sinoval-Star-1:before {
+  content: "\e9c5";
+}
+
+.sinoval-Live:before {
+  content: "\eac5";
+}
+
+.sinoval-BookFormulaEngineering-1:before {
+  content: "\e6be";
+}
+
+.sinoval-DocumentCatchUp-1:before {
+  content: "\e7c6";
+}
+
+.sinoval-Text-1:before {
+  content: "\e8c6";
+}
+
+.sinoval-SpeakerSettings-1:before {
+  content: "\e9c6";
+}
+
+.sinoval-WeatherSunny:before {
+  content: "\eac6";
+}
+
+.sinoval-BookFormulaInformation-1:before {
+  content: "\e6bf";
+}
+
+.sinoval-MoreVertical:before {
+  content: "\e7c7";
+}
+
+.sinoval-Music:before {
+  content: "\e8c7";
+}
+
+.sinoval-Shapes:before {
+  content: "\e9c7";
+}
+
+.sinoval-TextAlignJustify-1:before {
+  content: "\eac7";
+}
+
+.sinoval-BookFormulaFinancial:before {
+  content: "\e6c0";
+}
+
+.sinoval-DocumentCopy:before {
+  content: "\e7c8";
+}
+
+.sinoval-Multiselect:before {
+  content: "\e8c8";
+}
+
+.sinoval-Storage:before {
+  content: "\e9c8";
+}
+
+.sinoval-Video:before {
+  content: "\eac8";
+}
+
+.sinoval-BookFormulaEngineering:before {
+  content: "\e6c1";
+}
+
+.sinoval-DocumentCopy-1:before {
+  content: "\e7c9";
+}
+
+.sinoval-MoreVertical-1:before {
+  content: "\e8c9";
+}
+
+.sinoval-StickerAdd-1:before {
+  content: "\e9c9";
+}
+
+.sinoval-PhonePagination:before {
+  content: "\eac9";
+}
+
+.sinoval-BookFormulaLogical:before {
+  content: "\e6c2";
+}
+
+.sinoval-Document-1:before {
+  content: "\e7ca";
+}
+
+.sinoval-Multiselect-1:before {
+  content: "\e8ca";
+}
+
+.sinoval-Subway-1:before {
+  content: "\e9ca";
+}
+
+.sinoval-WeatherPartlyCloudyDay:before {
+  content: "\eaca";
+}
+
+.sinoval-BookFormulaLogical-1:before {
+  content: "\e6c3";
+}
+
+.sinoval-DocumentSearch-1:before {
+  content: "\e7cb";
+}
+
+.sinoval-Navigation:before {
+  content: "\e8cb";
+}
+
+.sinoval-StyleGuide-1:before {
+  content: "\e9cb";
+}
+
+.sinoval-TapSingle-1:before {
+  content: "\eacb";
+}
+
+.sinoval-BookFormulaMath-1:before {
+  content: "\e6c5";
+}
+
+.sinoval-DocumentPDF:before {
+  content: "\e7cc";
+}
+
+.sinoval-New:before {
+  content: "\e8cc";
+}
+
+.sinoval-KeyboardLayoutOneHandedLeft:before {
+  content: "\e9cc";
+}
+
+.sinoval-Whiteboard-1:before {
+  content: "\eacc";
+}
+

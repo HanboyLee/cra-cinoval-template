@@ -1,0 +1,96 @@
+// @import "~antd/es/style/themes/default.less";
+@import "../../../../node_modules/antd/es/style/themes/default.less";
+@import "~antd/dist/antd.less"; // 引入官方提供的 less 样式入口文件
+@import "./variables.less";
+@import "./button.less";
+@import "./table.less";
+@import "./input.less";
+@import "./radio.less";
+@import "./transfer.less";
+@import "./selectDropdown.less";
+@import "./picker.less";
+@import "./confirm.less";
+@import "./tooltip.less";
+
+:root {
+  & > * {
+    font-family: "PingFang-SC-Regular", "Source-Han-Sans-CN-Bold";
+    color: rgba(0, 0, 0, 0.9) !important;
+  }
+}
+
+// Layout
+.ant-layout-header {
+  line-height: 70px;
+}
+.ant-layout-content {
+  background: @primary_containerStroke_color !important;
+}
+
+.ant-menu-inline,
+.ant-menu-vertical,
+.ant-menu-vertical-left {
+  border: none;
+}
+/* drawer关闭按钮的位置 */
+.ant-drawer-close {
+  position: absolute;
+  right: 0;
+}
+.ant-layout-sider-children {
+  background: @primary_bg_color;
+}
+.ant-layout-sider-trigger {
+  background: @primary_bg_color;
+  color: @primary_block_text_color;
+}
+
+.editable-cell {
+  position: relative;
+}
+
+.editable-cell-value-wrap {
+  padding: 5px 12px;
+  cursor: pointer;
+}
+
+.ant-table-cell-row-hover .editable-cell-value-wrap {
+  padding: 4px 11px;
+  border: 1px solid @border-color-base;
+  border-radius: 2px;
+}
+
+// switch-button
+button.ant-switch.ant-switch-checked {
+  background: @primary_color !important;
+}
+
+// TABS
+.ant-tabs {
+  width: 100%;
+  min-height: 350px;
+  height: 40vh;
+  margin: 0 auto;
+}
+
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn,
+.ant-tabs-tab .ant-tabs-tab-btn {
+  padding: 5px;
+  &:hover {
+    background: @primary_bg_color !important;
+    color: @primary_block_text_color !important;
+  }
+}
+
+// form error message style
+
+.ant-form-item {
+  margin-bottom: 10px;
+}
+
+.ant-form-item.ant-form-item-with-help {
+  margin-bottom: 24px;
+  & [role="alert"] + div {
+    height: 10px !important;
+  }
+}

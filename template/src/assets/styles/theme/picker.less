@@ -1,0 +1,39 @@
+.ant-picker-cell-in-view.ant-picker-cell-selected .ant-picker-cell-inner {
+  background: @primary_color !important ;
+}
+
+.ant-btn-primary {
+  background-color: @primary_color !important;
+  border-color: @primary_color !important;
+}
+
+.ant-picker-time-panel-column
+  > li.ant-picker-time-panel-cell-selected
+  .ant-picker-time-panel-cell-inner {
+  color: @primary_color !important;
+  background: @primary_bg_color !important;
+  font-weight: bold !important;
+}
+
+.ant-picker-cell-in-view.ant-picker-cell-today .ant-picker-cell-inner::before {
+  border: 1px solid @primary_color !important;
+}
+
+/* calendar */
+/* 当前月份 */
+td.ant-picker-cell.ant-picker-cell-in-view
+  .ant-picker-cell-inner.ant-picker-calendar-date
+  .ant-picker-calendar-date-value {
+  color: @primary_block_text_color !important;
+}
+
+/* 非当前月份 */
+td.ant-picker-cell
+  .ant-picker-cell-inner.ant-picker-calendar-date
+  .ant-picker-calendar-date-value {
+  // color: @fail_white_text_color !important;
+}
+
+.ant-picker-calendar .ant-picker-panel .ant-picker-content thead tr th {
+  color: @primary_block_text_color !important;
+}

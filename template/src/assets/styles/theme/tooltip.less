@@ -1,0 +1,53 @@
+.ant-tooltip-inner {
+  color: @primary_block_text_color !important;
+  background: @primary_container_color !important;
+  border-color: @primary_containerStroke_color !important;
+  // 换行
+  white-space: pre-wrap;
+
+  //菜单
+  .menuItem,
+  a,
+  a:hover {
+    color: @primary_block_text_color !important;
+    background: @primary_container_color !important;
+    border-color: @primary_containerStroke_color !important;
+  }
+}
+.ant-tooltip-arrow-content {
+  --antd-arrow-background-color: @primary_container_color !important;
+  border-color: @primary_containerStroke_color!important;
+}
+
+.toolTipBtn {
+  .ant-popover-title {
+    background: @sider_menu_bg_color;
+    border-bottom: 1px solid @normal_block_text_color;
+  }
+  .ant-popover-arrow-content,
+  .ant-tooltip-arrow {
+    opacity: 0;
+  }
+  .ant-popover-inner-content,
+  .ant-tooltip-inner {
+    background: @sider_menu_bg_color !important;
+  }
+  .ant-popover-inner {
+    border-radius: @borderRadiusBase;
+    overflow: hidden;
+  }
+  .ant-table-content {
+    background: @sider_menu_bg_color;
+    .ant-table-tbody > tr > td {
+      border-radius: @borderRadiusBase;
+      text-align: center;
+      border-bottom: 1px solid @fail_block_text_color;
+    }
+  }
+  .ant-table-cell-row-hover {
+    background: @header_selected_color !important;
+    & > * {
+      color: @normal_white_text_color !important;
+    }
+  }
+}
