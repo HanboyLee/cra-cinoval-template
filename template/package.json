@@ -1,7 +1,6 @@
 {
   "name": "cinaval-template",
-  "version": "1.0.0",
-  "private": true,
+  "version": "1.0.1",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "@craco/craco": "^6.4.5",

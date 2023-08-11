@@ -1,7 +1,8 @@
 {
   "name": "cra-template-cinoval",
   "version": "1.0.0",
-  "description": "The CRA Template from Cinoval company.",
+  "description": "The CRA Template from Cinaval company.",
+  "author":"hanboylee",
   "scripts": {
     "format": "prettier --write ./template/src/**/*.js",
     "lint": "corss-env NODE_ENV=development eslint ./template/src/**/*.js",
@@ -41,34 +42,13 @@
   "engines": {
     "node": ">=12"
   },
-  "devDependencies": {
-    "compression-webpack-plugin": "^10.0.0",
-    "dotenv-cra": "^3.0.3",
-    "env-cmd": "^10.1.0",
-    "eslint": "^8.25.0",
-    "eslint-config-standard": "^17.0.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-promise": "^6.1.0",
-    "eslint-plugin-react": "^7.31.10",
-    "eslint-plugin-react-hooks": "^4.6.0",
-    "hard-source-webpack-plugin": "^0.13.1",
-    "mini-css-extract-plugin": "^2.7.6",
-    "prettier": "2.7.1",
-    "progress-bar-webpack-plugin": "^2.1.0",
-    "speed-measure-webpack-plugin": "^1.5.0",
-    "svg-sprite-loader": "^6.0.11",
-    "terser-webpack-plugin": "^5.3.9",
-    "thread-loader": "^4.0.2",
-    "webpack-parallel-uglify-plugin": "^2.0.0"
-  },
   "resolutions": {
     "styled-components": "^5"
   },
   "bugs": {
-    "url": "https://github.com/QuixSoftware/cra-template-quix/issues"
+    "url": "https://github.com/HanboyLee/cra-cinoval-template/issues"
   },
-  "homepage": "https://github.com/QuixSoftware/cra-template-quix#readme",
+  "homepage": "https://https://github.com/HanboyLee/cra-cinoval-template#readme",
   "main": "index.js",
-  "author": "",
   "license": "ISC"
 }

@@ -2,5 +2,5 @@ Welcome to the CINOVAL CRA Template. This template is used in private software, 
 
 To use this template copy and paste this line:
 ```
-npx create-react-app [name of app/location] --template cinoval
+npx create-react-app [name of app/location] --template cra-template-cinoval
 ```
