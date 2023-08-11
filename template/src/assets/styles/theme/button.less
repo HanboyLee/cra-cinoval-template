@@ -1,0 +1,310 @@
+/* 扩展ant design pro按钮组件颜色 */
+
+//normal
+.button-color-dust {
+  color: #fff;
+  background-color: @button_color_dust;
+  border-color: @button_color_dust;
+
+  &:hover,
+  &:focus {
+    background-color: @button_color_dust_hover;
+    border-color: @button_color_dust_hover;
+  }
+
+  &:active,
+  &.active {
+    background-color: @button_color_dust_active;
+    border-color: @button_color_dust_active;
+  }
+}
+
+.button-color-volcano {
+  color: #fff;
+  background-color: @button_color_volcano;
+  border-color: @button_color_volcano;
+
+  &:hover,
+  &:focus {
+    background-color: @button_color_volcano_hover;
+    border-color: @button_color_volcano_hover;
+  }
+
+  &:active,
+  &.active {
+    background-color: @button_color_volcano_active;
+    border-color: @button_color_volcano_active;
+  }
+}
+
+.button-color-sunset {
+  color: #fff;
+  background-color: @button_color_sunset;
+  border-color: @button_color_sunset;
+
+  &:hover,
+  &:focus {
+    background-color: @button_color_sunset_hover;
+    border-color: @button_color_sunset_hover;
+  }
+
+  &:active,
+  &.active {
+    background-color: @button_color_sunset_active;
+    border-color: @button_color_sunset_active;
+  }
+}
+
+.button-color-daybreak {
+  color: #fff;
+  background-color: @button_color_daybreak;
+  border-color: @button_color_daybreak;
+
+  &:hover,
+  &:focus {
+    background-color: @button_color_daybreak_hover;
+    border-color: @button_color_daybreak_hover;
+  }
+
+  &:active,
+  &.active {
+    background-color: @button_color_daybreak_active;
+    border-color: @button_color_daybreak_active;
+  }
+}
+.button-color-cyan {
+  color: #fff;
+  background-color: @button_color_cyan;
+  border-color: @button_color_cyan;
+
+  &:hover,
+  &:focus {
+    color: #fff;
+    background-color: @button_color_cyan_hover;
+    border-color: @button_color_cyan_hover;
+  }
+
+  &:active,
+  &.active {
+    color: #fff;
+    background-color: @button_color_cyan_active;
+    border-color: @button_color_cyan_active;
+  }
+}
+
+.button-color-gray {
+  color: #000000;
+  background-color: @button_color_gray;
+  border-color: @button_color_gray;
+  &:hover,
+  &:focus {
+    color: #000000;
+    background-color: @button_color_gray_hover;
+    border-color: @button_color_gray_hover;
+  }
+
+  &:active,
+  &.active {
+    color: #000000;
+    background-color: @button_color_gray_active;
+    border-color: @button_color_gray_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: #000000;
+    background-color: @button_color_gray_disabled;
+    border-color: @button_color_gray_disabled;
+  }
+}
+
+.button-color-blue {
+  color: #fff;
+  background-color: @button_color_blue;
+  border-color: @button_color_blue;
+  &:hover,
+  &:focus {
+    color: #fff;
+    background-color: @button_color_blue_hover;
+    border-color: @button_color_blue_hover;
+  }
+
+  &:active,
+  &.active {
+    color: #fff;
+    background-color: @button_color_blue_active;
+    border-color: @button_color_blue_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: #fff;
+    background-color: @button_color_blue_disabled;
+    border-color: @button_color_blue_disabled;
+  }
+}
+
+.button-color-red {
+  color: #fff;
+  background-color: @button_color_red;
+  border-color: @button_color_red;
+  &:hover,
+  &:focus {
+    color: #fff;
+    background-color: @button_color_red_hover;
+    border-color: @button_color_red_hover;
+  }
+
+  &:active,
+  &.active {
+    color: #fff;
+    background-color: @button_color_red_active;
+    border-color: @button_color_red_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: #fff;
+    background-color: @button_color_red_disabled;
+    border-color: @button_color_red_disabled;
+  }
+}
+
+// 文字
+.button-color-blue-text {
+  color: @button_color_blue;
+  cursor: pointer;
+  &:hover,
+  &:focus {
+    color: @button_color_blue_hover;
+  }
+  &:active,
+  &.active {
+    color: @button_color_blue_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: @button_color_blue_disabled;
+  }
+}
+
+.button-color-sunset-text {
+  color: #fff;
+  color: @button_color_cyan;
+
+  &:hover,
+  &:focus {
+    color: @button_color_cyan_hover;
+  }
+
+  &:active,
+  &.active {
+    color: @button_color_cyan_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: @disabled-primary-button-color;
+  }
+}
+
+.button-color-red-text {
+  color: @button_color_red;
+  cursor: pointer;
+  .ant-btn {
+    border: none;
+  }
+  &:hover,
+  &:focus {
+    color: @button_color_red_hover;
+  }
+  &:active,
+  &.active {
+    color: @button_color_red_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: @button_color_red_disabled;
+  }
+}
+
+.button-color-link-text {
+  color: @button_color_blue;
+  text-decoration: underline;
+  & > span {
+    text-decoration: underline;
+  }
+  &:hover,
+  &:focus {
+    color: @button_color_blue_hover;
+    text-decoration: underline;
+  }
+  &:active,
+  &.active {
+    color: @button_color_blue_active;
+    text-decoration: underline;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: @button_color_blue_disabled;
+    text-decoration: underline;
+  }
+}
+
+// ghost
+.button-color-blue-ghost {
+  color: @button_color_blue;
+  border-color: @button_color_blue;
+  &:hover,
+  &:focus {
+    color: @button_color_blue_hover;
+    border-color: @button_color_blue_hover;
+  }
+  &:active,
+  &.active {
+    color: @button_color_blue_active;
+    border-color: @button_color_blue_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: @button_color_blue_disabled;
+    border-color: @button_color_blue_disabled;
+  }
+}
+
+.button-color-red-ghost {
+  color: @button_color_red;
+  border-color: @button_color_red;
+  &:hover,
+  &:focus {
+    color: @button_color_red_hover;
+    border-color: @button_color_red_hover;
+  }
+  &:active,
+  &.active {
+    color: @button_color_red_active;
+    border-color: @button_color_red_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: @button_color_red_disabled;
+    border-color: @button_color_red_disabled;
+  }
+}
+
+.button-color-red-ghost {
+  color: #000000;
+  border-color: @button_color_gray;
+  &:hover,
+  &:focus {
+    color: #000000;
+    border-color: @button_color_gray_hover;
+  }
+
+  &:active,
+  &.active {
+    color: #000000;
+    border-color: @button_color_gray_active;
+  }
+  &[disabled],
+  &[disabled]:hover {
+    color: #000000;
+    border-color: @button_color_gray_disabled;
+  }
+}
