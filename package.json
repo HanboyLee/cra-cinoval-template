@@ -1,6 +1,6 @@
 {
   "name": "cra-template-cinoval",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The CRA Template from Cinaval company.",
   "author":"hanboylee",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HanboyLee/cra-cinoval-template.git"
+    "url": "https://github.com/HanboyLee/cra-cinoval-template.git"
   },
   "keywords": [
     "create-react-app",
@@ -49,6 +49,7 @@
     "url": "https://github.com/HanboyLee/cra-cinoval-template/issues"
   },
   "homepage": "https://https://github.com/HanboyLee/cra-cinoval-template#readme",
-  "main": "index.js",
+  "main": "template.json",
   "license": "ISC"
 }
+
