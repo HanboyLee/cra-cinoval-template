@@ -3,11 +3,13 @@
   "version": "1.0.3",
   "description": "The CRA Template from Cinaval company.",
   "author":"hanboylee",
+  "main": "template.json",
   "private":false,
   "scripts": {
-    "format": "prettier --write ./template/src/**/*.js",
-    "lint": "corss-env NODE_ENV=development eslint ./template/src/**/*.js",
-    "test": "jest"
+	"dev": "env-cmd -f .env.dev.template craco start",
+	"build": "env-cmd -f .env.dev.template craco build",
+	"test": "craco test",
+	"eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -50,7 +52,6 @@
     "url": "https://github.com/HanboyLee/cra-cinoval-template/issues"
   },
   "homepage": "https://https://github.com/HanboyLee/cra-cinoval-template#readme",
-  "main": "template.json",
   "license": "ISC"
 
 }
