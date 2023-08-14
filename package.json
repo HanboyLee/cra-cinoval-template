@@ -70,6 +70,6 @@
 	"terser-webpack-plugin": "^5.3.9",
 	"thread-loader": "^4.0.2",
 	"webpack-parallel-uglify-plugin": "^2.0.0"
-  },
+  }
 }
 
