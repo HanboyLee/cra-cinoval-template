@@ -1,14 +1,14 @@
 import axios from 'axios';
 import nprogress from 'nprogress';
 import 'nprogress/nprogress.css';
-import { API_URL, API_TIMEOUT } from '@/assets/constants';
+import {  API_TIMEOUT } from '@/assets/constants';
 const instance = () => {
   let createInstance = axios.create({
-    url: API_URL,
+    baseURL: process.env.REACT_APP_API_URL,
     timeout: API_TIMEOUT,
     withCredentials: true,
-    responseType: 'json',
-    params: {},
+    // responseType: 'json',
+    // params: {},
   });
 
   createInstance.interceptors.response.use(handleResponse, handleError);
@@ -25,6 +25,8 @@ const handleResponse = (res) => {
       throw new Error(res?.data?.message);
     }
     nprogress.done();
+
+
     return res.data;
   } catch (error) {
     nprogress.done();
@@ -36,6 +38,7 @@ const handleRequest = (config) => {
   if (storage?.userInfo?.token) {
     config.params['token'] = storage.userInfo.token;
   }
+  console.log(config)
   nprogress.start();
 
   return config;

@@ -1,6 +1,6 @@
 {
   "name": "cra-template-cinoval",
-  "version": "1.9.3",
+  "version": "1.9.4",
   "description": "The CRA Template from Cinaval company.",
   "author": "hanboylee",
   "main": "template.json",
@@ -9,7 +9,10 @@
     "dev": "env-cmd -f .env.dev.template craco start",
     "build": "env-cmd -f .env.dev.template craco build",
     "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+	"clean-files": "rm -rf ./template/public ./template/src",
+	"copy-files": "cp -a ../cinaval-template2/src/ template/src && cp -a  ../cinaval-template2/public/ template/public",
+	"prepublishOnly": "npm run clean-files && npm run copy-files"
   },
   "repository": {
     "type": "git",

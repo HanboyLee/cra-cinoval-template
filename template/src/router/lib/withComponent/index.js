@@ -1,11 +1,19 @@
-import React from 'react'
+import React from "react";
+import KeepAlive from "react-activation";
 
-const  withComponent = (Com) =>{
+const WithComponent = ({ name, children } = {}) => {
+	console.log(name, "name");
+	if (!name) {
+		return (
+			<React.Suspense fallback={<>Loading..-.</>}>{children}</React.Suspense>
+		);
+	}
+
 	return (
-	  <React.Suspense fallback={'Loading...'}>
-		<Com />
-	  </React.Suspense>
+		<KeepAlive autoFreeze={false} id={name} name={name}>
+			{children}
+		</KeepAlive>
 	);
-  }
+};
 
-  export default withComponent
+export default WithComponent;

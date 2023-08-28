@@ -9,8 +9,8 @@ const MEDIA_SIZE = {
 	desktop_1560_Inch: 1560,
 	desktop_1920_Inch: 1920,
 	desktop_2560_Inch: 2560,
-  };
-  module.exports = {
+};
+module.exports = {
 	primary_color: "#475DD8", // 全局主色
 	primary_hover_color: "#536DFE", // 全局hover主色
 	primary_selected_color: "#3B4DB4", // 全局selected主色
@@ -79,4 +79,4 @@ const MEDIA_SIZE = {
 	media1920: `(min-width: ${MEDIA_SIZE.desktop_1920_Inch}px)`,
 	media2560: `(min-width: ${MEDIA_SIZE.desktop_2560_Inch}px)`,
 	MEDIA_SIZE,
-  };
+};
